@@ -1,22 +1,68 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
+
 <head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+  <meta name="description" content="">
+  <title>Azure DevOps API KMS</title>
+
+  <!-- Theme: Simple Dark -->
+  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="./style.css" />
+  <!-- Custom Styles -->
+  <style>
+    :root {
+      --base-font-size: 14px;
+
+      --base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+      --base-font-size: 16px;
+      --base-font-weight: normal;
+      --base-letter-spacing: ;
+      --base-line-height: 1.7;
+    }
+    div {
+      text-align: justify;
+    }
+    p{
+      text-align: justify;
+    }
+  </style>
 </head>
+
 <body>
   <div id="app"></div>
+
   <script>
+    // Docsify Configuration
     window.$docsify = {
-      name: '',
-      repo: ''
-    }
+      name:'Azure DevOps API KMS',
+      logo: './_media/icon-title.svg',
+      mergeNavbar: true,
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: [], // or 'auto'
+        placeholder: 'Buscar por...',
+        noData: 'No se encontró ningún resultado',
+        depth: 2,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      },
+      loadSidebar: true,
+      subMaxLevel: 4,
+      sidebarDisplayLevel: 1, // set sidebar display level
+    };
   </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- Required -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+  <!-- Recommended -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 </body>
+
 </html>

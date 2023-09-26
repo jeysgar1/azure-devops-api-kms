@@ -35,6 +35,7 @@
     <Content Include="docs\.nojekyll" />
     <Content Include="docs\index.html" />
     <Content Include="docs\README.md" />
+    <Content Include="docs\style.css" />
     <Content Include="docs\typedoc\.nojekyll" />
     <Content Include="docs\typedoc\classes\controllers_agile_controller.AgileController.md" />
     <Content Include="docs\typedoc\classes\controllers_epic_controller.EpicController.md" />
@@ -126,6 +127,13 @@
     <Content Include="docs\typedoc\modules\test_app_spec.md" />
     <Content Include="docs\typedoc\modules\test_iTestConfig.md" />
     <Content Include="docs\typedoc\README.md" />
+    <Content Include="docs\_404.md" />
+    <Content Include="docs\_media\azure.svg" />
+    <Content Include="docs\_media\icon-title.svg" />
+    <Content Include="docs\_media\icon.svg" />
+    <Content Include="docs\_media\project.svg" />
+    <Content Include="docs\_media\scrumetb.svg" />
+    <Content Include="docs\_sidebar.md" />
     <Content Include="src\test\app.feature" />
     <Content Include="typedoc.json" />
     <Content Include=".eslintignore" />
@@ -143,6 +151,7 @@
     <Folder Include="docs\typedoc\enums\" />
     <Folder Include="docs\typedoc\interfaces\" />
     <Folder Include="docs\typedoc\modules\" />
+    <Folder Include="docs\_media\" />
     <Folder Include="src\" />
     <Folder Include="src\categories\" />
     <Folder Include="src\config\" />

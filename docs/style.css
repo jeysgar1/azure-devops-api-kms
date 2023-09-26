@@ -1,0 +1,24 @@
+
+p { 
+    text-align: justify;
+}
+
+div {
+    text-align: justify;
+    width:100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.div50 {
+    width: 50%;
+    max-width: 50%;
+}
+
+.left{
+    float:left;
+}
+
+.right{
+    float:right;
+}
