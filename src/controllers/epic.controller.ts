@@ -2,7 +2,7 @@
 
 
 import { configInstance } from "../config";
-import { AzureWorkItem, Epic, Feature } from "../model";
+import { AzureWorkItem, Epic, Feature } from "../models";
 
 /**
  * Controlador encargado de gestionar las épicas

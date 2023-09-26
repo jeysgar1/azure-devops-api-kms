@@ -1,5 +1,5 @@
 import {configInstance} from "../config/configInstance";
-import { AzureWorkItem, UserStory } from "../model";
+import { AzureWorkItem, UserStory } from "../models";
 
 /**
  * Permite obtener una Historia de usuario

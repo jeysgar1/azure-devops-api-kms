@@ -1,5 +1,5 @@
 import {configInstance} from "../config/configInstance";
-import { AzureWorkItem, Task } from "../model";
+import { AzureWorkItem, Task } from "../models";
 
 /**
  * Permite obtener una tarea

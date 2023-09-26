@@ -2,7 +2,7 @@
 import { defineFeature, loadFeature } from 'jest-cucumber';
 import path from 'path';
 import azureDevOpsIntegrationInstance from "../index"
-import { Initiative } from '../model';
+import { Initiative } from '../models';
 import iTestConfig from './iTestConfig';
 
 const feature = loadFeature(path.join(__dirname, './app.feature'));

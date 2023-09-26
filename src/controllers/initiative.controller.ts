@@ -1,6 +1,4 @@
-import { LoggingSubTag, LoggingTag } from "../audit";
-import { logging } from "../audit/logging";
-import { AzureWorkItem, Epic, Feature, Initiative, Task, UserStory } from "../model";
+import { AzureWorkItem, Epic, Feature, Initiative, Task, UserStory } from "../models";
 import { AgileController } from "./agile.controller";
 import { EpicController } from "./epic.controller";
 import { FeatureController } from "./feature.controller";
@@ -54,19 +52,18 @@ export class InitiativeController {
      * @returns {Promise<Initiative | undefined>} Iniciativa
      */
     async get(idInitiative: string): Promise<Initiative | undefined> {
-        logging(LoggingTag.Initiative, LoggingSubTag.Start, "Id : "+idInitiative)
+       
         const azureWorkItems : Array<AzureWorkItem> | undefined =  await this.agileController.getByInitiative(idInitiative);
-        logging(LoggingTag.Initiative, LoggingSubTag["Send Call Procedure"], "Total Azure Work Items : "+azureWorkItems?.length)
 
         const epics : Array<Epic> | undefined = this.epicController.get(azureWorkItems);
-        logging(LoggingTag.Initiative, LoggingSubTag["Response Call Procedure"], "Total Epics : "+epics?.length)
+       
         const features : Array<Feature> | undefined =  this.featureController.get(azureWorkItems);
-        logging(LoggingTag.Initiative, LoggingSubTag["Response Call Procedure"], "Total Features : "+features?.length)
+        
 
         const userStories : Array<UserStory> | undefined = this.userStoryController.get(azureWorkItems);
-        logging(LoggingTag.Initiative, LoggingSubTag["Response Call Procedure"], "Total User Stories : "+userStories?.length)
+       
         const tasks : Array<Task> | undefined = this.taskController.get(azureWorkItems);
-        logging(LoggingTag.Initiative, LoggingSubTag["Response Call Procedure"], "Total Tasks : "+tasks?.length)
+       
 
         const featuresPending : string[] = []
         epics?.forEach((epic:Epic) => {
@@ -83,7 +80,7 @@ export class InitiativeController {
         })
 
         if(featuresPending.length > 0){
-            logging(LoggingTag.Initiative, LoggingSubTag["Response Call Procedure"], "Total Pending Features : "+featuresPending?.length)
+            
             const pendingsFeatures = await this.agileController.getChilds(featuresPending);
             const listFeatures = this.featureController.get(pendingsFeatures);
             if(listFeatures){
@@ -107,7 +104,7 @@ export class InitiativeController {
         })
 
         if(userStoriesPending.length > 0){
-            logging(LoggingTag.Initiative, LoggingSubTag["Response Call Procedure"], "Total Pending User Stories : "+userStoriesPending?.length)
+            
             const pendingsUserStories = await this.agileController.getChilds(userStoriesPending);
             const listUserStories = this.userStoryController.get(pendingsUserStories);
             if(listUserStories){
@@ -130,7 +127,7 @@ export class InitiativeController {
         })
 
         if(tasksPending.length > 0){
-            logging(LoggingTag.Initiative, LoggingSubTag["Response Call Procedure"], "Total Pending Tasks : "+tasksPending?.length)
+          
             const pendingTasks = await this.agileController.getChilds(tasksPending);
             const listTasks = this.taskController.get(pendingTasks);
             if(listTasks){
@@ -139,15 +136,13 @@ export class InitiativeController {
         }
 
         const docsReferenced : {wiki:string, attachedFiles:string[]} | undefined = this.epicController.getAttachedFiles(azureWorkItems);
-        logging(LoggingTag.Initiative, LoggingSubTag["Response Call Procedure"], "Docs : "+JSON.stringify(docsReferenced))
-
+       
         epics?.forEach((epic:Epic) => epic.selectMyFeatures(features));
         epics?.forEach((epic:Epic) => epic.features?.forEach((feature:Feature) => feature.selectMyUserStories(userStories)))
         epics?.forEach((epic:Epic) => epic.features?.forEach((feature:Feature) => feature.userStories?.forEach((userStory:UserStory) => {userStory.selectMyTasks(tasks); userStory.selectMyFeature(features)})))
         userStories?.forEach((userStory : UserStory) => {userStory.selectMyTasks(tasks); userStory.selectMyFeature(features)})
         const initiative = new Initiative(idInitiative, userStories, docsReferenced);
-        logging(LoggingTag.Initiative, LoggingSubTag.End, "Initiative : "+JSON.stringify(initiative))
-        
+       
         return initiative;
     }
 }

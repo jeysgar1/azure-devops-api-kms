@@ -1,5 +1,5 @@
 import {configInstance} from "../config/configInstance";
-import { AzureWorkItem, Feature } from "../model";
+import { AzureWorkItem, Feature } from "../models";
 
 /**
  * Permite obtener una característica

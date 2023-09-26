@@ -1,4 +1,4 @@
-import { AzureGetProjectsItemResponse, Project } from "../model";
+import { AzureGetProjectsItemResponse, Project } from "../models";
 import { AgileController } from "./agile.controller";
 
 

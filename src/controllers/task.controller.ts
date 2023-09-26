@@ -1,5 +1,5 @@
 import { WorkItemTypes } from "../categories";
-import { AzureWorkItem, Task } from "../model";
+import { AzureWorkItem, Task } from "../models";
 import { AgileController } from "./agile.controller";
 
 /**

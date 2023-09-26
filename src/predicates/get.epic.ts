@@ -1,6 +1,6 @@
 
 import {configInstance} from "../config/configInstance";
-import { AzureWorkItem, Epic } from "../model";
+import { AzureWorkItem, Epic } from "../models";
 
 /**
  * Permite transformar un elemento Azure DevOps
