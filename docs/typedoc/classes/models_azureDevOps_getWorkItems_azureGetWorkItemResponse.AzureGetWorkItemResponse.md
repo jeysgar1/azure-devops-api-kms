@@ -1,0 +1,66 @@
+[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [models/azureDevOps/getWorkItems/azureGetWorkItemResponse](../modules/models_azureDevOps_getWorkItems_azureGetWorkItemResponse.md) / AzureGetWorkItemResponse
+
+# Class: AzureGetWorkItemResponse
+
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse](../modules/models_azureDevOps_getWorkItems_azureGetWorkItemResponse.md).AzureGetWorkItemResponse
+
+Elemento de trabajo obtenido al consumir la API de Azure DevOps
+
+## Table of contents
+
+### Constructors
+
+- [constructor](models_azureDevOps_getWorkItems_azureGetWorkItemResponse.AzureGetWorkItemResponse.md#constructor)
+
+### Properties
+
+- [fields](models_azureDevOps_getWorkItems_azureGetWorkItemResponse.AzureGetWorkItemResponse.md#fields)
+- [id](models_azureDevOps_getWorkItems_azureGetWorkItemResponse.AzureGetWorkItemResponse.md#id)
+- [relations](models_azureDevOps_getWorkItems_azureGetWorkItemResponse.AzureGetWorkItemResponse.md#relations)
+- [url](models_azureDevOps_getWorkItems_azureGetWorkItemResponse.AzureGetWorkItemResponse.md#url)
+
+## Constructors
+
+### constructor
+
+• **new AzureGetWorkItemResponse**()
+
+## Properties
+
+### fields
+
+• **fields**: `undefined` \| `Record`<`string`, `any`\>
+
+#### Defined in
+
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L16)
+
+___
+
+### id
+
+• **id**: `undefined` \| `string`
+
+#### Defined in
+
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L14)
+
+___
+
+### relations
+
+• **relations**: `undefined` \| [`AzureGetWorkItemRelationResponse`](models_azureDevOps_getWorkItems_azureGetWorkItemRelationResponse.AzureGetWorkItemRelationResponse.md)[]
+
+#### Defined in
+
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L18)
+
+___
+
+### url
+
+• **url**: `undefined` \| `string`
+
+#### Defined in
+
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L20)
