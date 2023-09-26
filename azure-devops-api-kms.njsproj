@@ -30,6 +30,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="src\test\app.feature" />
     <Content Include="typedoc.json" />
     <Content Include=".eslintignore" />
     <Content Include=".eslintrc" />
@@ -50,7 +51,9 @@
     <Folder Include="src\models\azureDevOps\getProjects\" />
     <Folder Include="src\models\azureDevOps\getWorkItems\" />
     <Folder Include="src\models\azureDevOps\wiql\" />
+    <Folder Include="src\predicates\" />
     <Folder Include="src\services\" />
+    <Folder Include="src\test\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="src\categories\index.ts" />
@@ -63,6 +66,13 @@
     <TypeScriptCompile Include="src\config\configInstance.ts" />
     <TypeScriptCompile Include="src\config\iAppConfig.ts" />
     <TypeScriptCompile Include="src\config\index.ts" />
+    <TypeScriptCompile Include="src\controllers\agile.controller.ts" />
+    <TypeScriptCompile Include="src\controllers\epic.controller.ts" />
+    <TypeScriptCompile Include="src\controllers\feature.controller.ts" />
+    <TypeScriptCompile Include="src\controllers\initiative.controller.ts" />
+    <TypeScriptCompile Include="src\controllers\project.controller.ts" />
+    <TypeScriptCompile Include="src\controllers\task.controller.ts" />
+    <TypeScriptCompile Include="src\controllers\userStory.controller.ts" />
     <TypeScriptCompile Include="src\index.ts" />
     <TypeScriptCompile Include="src\models\agile\base.ts" />
     <TypeScriptCompile Include="src\models\agile\dates.ts" />
@@ -94,8 +104,15 @@
     <TypeScriptCompile Include="src\models\azureDevOps\wiql\query.ts" />
     <TypeScriptCompile Include="src\models\azureDevOps\wiql\resourceURI.ts" />
     <TypeScriptCompile Include="src\models\index.ts" />
+    <TypeScriptCompile Include="src\predicates\get.epic.ts" />
+    <TypeScriptCompile Include="src\predicates\get.feature.ts" />
+    <TypeScriptCompile Include="src\predicates\get.task.ts" />
+    <TypeScriptCompile Include="src\predicates\get.userstory.ts" />
+    <TypeScriptCompile Include="src\predicates\index.ts" />
     <TypeScriptCompile Include="src\services\azure.devops.client.ts" />
     <TypeScriptCompile Include="src\services\index.ts" />
+    <TypeScriptCompile Include="src\test\app.spec.ts" />
+    <TypeScriptCompile Include="src\test\iTestConfig.ts" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
   <ProjectExtensions>
