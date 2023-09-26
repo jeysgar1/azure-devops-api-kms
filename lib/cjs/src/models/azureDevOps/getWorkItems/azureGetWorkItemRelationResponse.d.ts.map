@@ -1,0 +1,1 @@
+{"version":3,"file":"azureGetWorkItemRelationResponse.d.ts","sourceRoot":"","sources":["../../../../../../src/models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,qBAAa,gCAAgC;IAEzC,EAAE,EAAE,MAAM,GAAG,SAAS,CAAA;IAEtB,GAAG,EAAE,MAAM,GAAG,SAAS,CAAA;IAEvB,GAAG,EAAC,MAAM,GAAG,SAAS,CAAA;CACzB"}

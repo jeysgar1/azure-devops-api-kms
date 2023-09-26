@@ -1,11 +1,33 @@
 {
+  "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "lib": ["es6"],
-    "sourceMap": true
+    "incremental": true,
+    "target": "ES2015",
+    "module": "ES2020",
+    "lib": [ "es2017", "es7", "es6", "dom" ],
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowJs": true,
+    "outDir": "./lib/esm",
+    "rootDir": "./",
+    "strict": true,
+    "declaration": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipDefaultLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "checkJs": true,
+    "moduleResolution": "node",
+    "types": [ "node", "jest" ],
+    "skipLibCheck": true
   },
+  "include": [ "src/**/*" ],
   "exclude": [
-    "node_modules"
+    "./node_modules",
+    "./docs",
+    "./lib",
+    "test/**/*.spec.ts",
+    "test/**/*.test.ts"
   ]
 }

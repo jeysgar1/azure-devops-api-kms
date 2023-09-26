@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "prettier", "jest", "eslint-plugin-tsdoc"],
+  "extends": [
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest/globals": true
+  }
+}

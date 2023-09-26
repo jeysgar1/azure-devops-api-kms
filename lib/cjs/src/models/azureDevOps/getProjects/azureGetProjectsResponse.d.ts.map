@@ -1,0 +1,1 @@
+{"version":3,"file":"azureGetProjectsResponse.d.ts","sourceRoot":"","sources":["../../../../../../src/models/azureDevOps/getProjects/azureGetProjectsResponse.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,4BAA4B,EAAE,MAAM,gCAAgC,CAAA;AAC7E;;;;;;GAMG;AACH,qBAAa,wBAAwB;IAEjC,KAAK,EAAE,MAAM,GAAG,SAAS,CAAA;IAEzB,KAAK,EAAE,4BAA4B,EAAE,GAAG,SAAS,CAAA;CACpD"}

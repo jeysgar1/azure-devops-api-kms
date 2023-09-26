@@ -30,9 +30,70 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="app.ts" />
+    <Content Include=".eslintignore" />
+    <Content Include=".eslintrc" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="tsconfig-cjs.json" />
     <Content Include="tsconfig.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="src\" />
+    <Folder Include="src\categories\" />
+    <Folder Include="src\config\" />
+    <Folder Include="src\controllers\" />
+    <Folder Include="src\models\" />
+    <Folder Include="src\models\agile\" />
+    <Folder Include="src\models\azureDevOps\" />
+    <Folder Include="src\models\azureDevOps\getProjects\" />
+    <Folder Include="src\models\azureDevOps\getWorkItems\" />
+    <Folder Include="src\models\azureDevOps\wiql\" />
+    <Folder Include="src\services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="src\categories\index.ts" />
+    <TypeScriptCompile Include="src\categories\workItemLinkType.ts" />
+    <TypeScriptCompile Include="src\categories\workItemRole.ts" />
+    <TypeScriptCompile Include="src\categories\workItemStates.ts" />
+    <TypeScriptCompile Include="src\categories\workItemStatesHomologation.ts" />
+    <TypeScriptCompile Include="src\categories\workItemTypes.ts" />
+    <TypeScriptCompile Include="src\categories\workItemTypesHomologation.ts" />
+    <TypeScriptCompile Include="src\config\configInstance.ts" />
+    <TypeScriptCompile Include="src\config\iAppConfig.ts" />
+    <TypeScriptCompile Include="src\config\index.ts" />
+    <TypeScriptCompile Include="src\index.ts" />
+    <TypeScriptCompile Include="src\models\agile\base.ts" />
+    <TypeScriptCompile Include="src\models\agile\dates.ts" />
+    <TypeScriptCompile Include="src\models\agile\epic.ts" />
+    <TypeScriptCompile Include="src\models\agile\feature.ts" />
+    <TypeScriptCompile Include="src\models\agile\index.ts" />
+    <TypeScriptCompile Include="src\models\agile\initiative.ts" />
+    <TypeScriptCompile Include="src\models\agile\person.ts" />
+    <TypeScriptCompile Include="src\models\agile\project.ts" />
+    <TypeScriptCompile Include="src\models\agile\task.ts" />
+    <TypeScriptCompile Include="src\models\agile\team.ts" />
+    <TypeScriptCompile Include="src\models\agile\userStory.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\azureWorkItem.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\baseURI.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getProjects\azureGetProjectsItemResponse.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getProjects\azureGetProjectsResponse.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getProjects\index.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getProjects\resourceURI.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getWorkItems\azureGetWorkItemPersonResponse.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getWorkItems\azureGetWorkItemRelationResponse.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getWorkItems\azureGetWorkItemResponse.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getWorkItems\azureGetWorkItemsResponse.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getWorkItems\index.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\getWorkItems\resourceURI.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\index.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\wiql\azureWiqlItemResponse.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\wiql\azureWiqlResponse.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\wiql\index.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\wiql\query.ts" />
+    <TypeScriptCompile Include="src\models\azureDevOps\wiql\resourceURI.ts" />
+    <TypeScriptCompile Include="src\models\index.ts" />
+    <TypeScriptCompile Include="src\services\azure.devops.client.ts" />
+    <TypeScriptCompile Include="src\services\index.ts" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
   <ProjectExtensions>
