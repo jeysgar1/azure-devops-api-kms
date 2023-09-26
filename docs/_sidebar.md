@@ -12,4 +12,11 @@
             - [Scrum](./conceptos/scrum.md)
             - [Kanban](./conceptos/kanban.md)
 - Herramientas
-    - [Azure DevOps](./tools/azuredevops.md)
+    - [Axios](./tools/axios.md)
+    - [Cucumber](./tools/cucumber.md)
+    - [Jest](./tools/pnpm.md)
+    - [NodeJS](./tools/nodejs.md)
+    - [NPM](./tools/npm.md)
+    - [PNPM](./tools/pnpm.md)
+    
+    

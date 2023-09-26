@@ -36,7 +36,12 @@
     <Content Include="docs\index.html" />
     <Content Include="docs\README.md" />
     <Content Include="docs\style.css" />
+    <Content Include="docs\tools\axios.md" />
+    <Content Include="docs\tools\cucumber.md" />
+    <Content Include="docs\tools\jest.md" />
     <Content Include="docs\tools\nodejs.md" />
+    <Content Include="docs\tools\npm.md" />
+    <Content Include="docs\tools\pnpm.md" />
     <Content Include="docs\tools\tools.md" />
     <Content Include="docs\typedoc\.nojekyll" />
     <Content Include="docs\typedoc\classes\controllers_agile_controller.AgileController.md" />
