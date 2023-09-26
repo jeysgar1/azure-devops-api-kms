@@ -33,6 +33,7 @@
     <Content Include=".prettierignore" />
     <Content Include=".prettierrc" />
     <Content Include="docs\.nojekyll" />
+    <Content Include="docs\azureDevOps\organizacion.md" />
     <Content Include="docs\index.html" />
     <Content Include="docs\README.md" />
     <Content Include="docs\style.css" />
@@ -140,6 +141,7 @@
     <Content Include="docs\typedoc\modules\test_app_spec.md" />
     <Content Include="docs\typedoc\modules\test_iTestConfig.md" />
     <Content Include="docs\typedoc\README.md" />
+    <Content Include="docs\usecase\configapp.md" />
     <Content Include="docs\_404.md" />
     <Content Include="docs\_media\azure.svg" />
     <Content Include="docs\_media\icon-title.svg" />
@@ -160,6 +162,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="docs\" />
+    <Folder Include="docs\azureDevOps\" />
+    <Folder Include="docs\usecase\" />
     <Folder Include="docs\tools\" />
     <Folder Include="docs\typedoc\" />
     <Folder Include="docs\typedoc\classes\" />

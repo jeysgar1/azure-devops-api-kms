@@ -1,16 +1,11 @@
 - Introducción
     - [Motivación](./motivacion.md)
-- Guías 
-    - [Pre-requisitos](./guias/prerequisitos.md)
-    - [Instalación](./guias/instalacion.md)
-    - [Uso](./guias/instalacion.md)
-- Colaboraciones
-    - [Pre-requisitos](./guias/prerequisitos-colaboracion.md)
-- Conceptos
-    - [DevOps](./conceptos/devops.md)
-        - [Metodologías ágiles](./conceptos/agile.md)
-            - [Scrum](./conceptos/scrum.md)
-            - [Kanban](./conceptos/kanban.md)
+- **Casos de uso** 
+    - [Configurar aplicación](./usecase/configapp.md)
+- **Azure DevOps API REST**
+    - PAT
+    - WIQL
+    - WorkItem's Batch
 - **Herramientas**
     - [Axios](./tools/axios.md)
     - [Cucumber](./tools/cucumber.md)
