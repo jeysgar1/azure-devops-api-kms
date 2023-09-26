@@ -30,4 +30,4 @@ Permite transformar un elemento Azure DevOps
 
 #### Defined in
 
-[predicates/get.epic.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/predicates/get.epic.ts#L10)
+[predicates/get.epic.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/predicates/get.epic.ts#L9)

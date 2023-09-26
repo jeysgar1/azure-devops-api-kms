@@ -5,7 +5,6 @@
 [categories/workItemLinkType](../modules/categories_workItemLinkType.md).WorkItemLinkType
 
 Definición que da la aplicación sobre los tipos de relaciones entre un elemento de trabajo y otro
- 
 
 ## Table of contents
 
@@ -26,7 +25,7 @@ Definición que da la aplicación sobre los tipos de relaciones entre un element
 
 #### Defined in
 
-[categories/workItemLinkType.ts:11](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemLinkType.ts#L11)
+[categories/workItemLinkType.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemLinkType.ts#L8)
 
 ___
 
@@ -36,7 +35,7 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemLinkType.ts#L13)
+[categories/workItemLinkType.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemLinkType.ts#L10)
 
 ___
 
@@ -46,7 +45,7 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemLinkType.ts#L15)
+[categories/workItemLinkType.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemLinkType.ts#L12)
 
 ___
 
@@ -56,7 +55,7 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemLinkType.ts#L17)
+[categories/workItemLinkType.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemLinkType.ts#L14)
 
 ___
 
@@ -66,7 +65,7 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemLinkType.ts#L19)
+[categories/workItemLinkType.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemLinkType.ts#L16)
 
 ___
 
@@ -76,4 +75,4 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemLinkType.ts#L21)
+[categories/workItemLinkType.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemLinkType.ts#L18)

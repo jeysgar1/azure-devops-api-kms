@@ -1,4 +1,4 @@
-import { AzureWorkItem, Feature } from "../models";
+import { AzureWorkItem, Feature } from '../models';
 /**
  * Permite obtener una característica
  * @param {AzureWorkItem} azureWorkItem - Elemento de trabajo

@@ -1,4 +1,4 @@
-import { AzureWorkItem, Epic } from "../models";
+import { AzureWorkItem, Epic } from '../models';
 /**
  * Controlador encargado de gestionar las épicas
  *

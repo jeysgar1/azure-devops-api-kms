@@ -1,4 +1,4 @@
-import { Project } from "../models";
+import { Project } from '../models';
 /**
  * Controlador encargado de gestionar los proyectos
  *

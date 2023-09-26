@@ -1,5 +1,5 @@
-import { Initiative } from "./models";
-import { iAppConfig } from "./config";
+import { Initiative } from './models';
+import { iAppConfig } from './config';
 declare class AzureDevOpsIntegrations {
     private static _instance;
     static getInstance(): AzureDevOpsIntegrations;

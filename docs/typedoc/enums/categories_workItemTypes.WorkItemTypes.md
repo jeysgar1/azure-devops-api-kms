@@ -5,7 +5,6 @@
 [categories/workItemTypes](../modules/categories_workItemTypes.md).WorkItemTypes
 
 Definición que da la aplicación sobre los tipos de elementos de trabajo
- 
 
 ## Table of contents
 
@@ -25,7 +24,7 @@ Definición que da la aplicación sobre los tipos de elementos de trabajo
 
 #### Defined in
 
-[categories/workItemTypes.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemTypes.ts#L10)
+[categories/workItemTypes.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemTypes.ts#L8)
 
 ___
 
@@ -35,7 +34,7 @@ ___
 
 #### Defined in
 
-[categories/workItemTypes.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemTypes.ts#L12)
+[categories/workItemTypes.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemTypes.ts#L10)
 
 ___
 
@@ -45,7 +44,7 @@ ___
 
 #### Defined in
 
-[categories/workItemTypes.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemTypes.ts#L14)
+[categories/workItemTypes.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemTypes.ts#L12)
 
 ___
 
@@ -55,7 +54,7 @@ ___
 
 #### Defined in
 
-[categories/workItemTypes.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemTypes.ts#L16)
+[categories/workItemTypes.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemTypes.ts#L14)
 
 ___
 
@@ -65,4 +64,4 @@ ___
 
 #### Defined in
 
-[categories/workItemTypes.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemTypes.ts#L18)
+[categories/workItemTypes.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemTypes.ts#L16)

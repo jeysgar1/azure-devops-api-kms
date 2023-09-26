@@ -1,57 +1,54 @@
-
-
 export interface iAppConfig {
-
-    fields:{
+    fields: {
         /**
          * Campo que define el identificador de una iniciativa
          */
-        idInitiative : string
+        idInitiative: string;
         /**
          * Equipo de trabajo
          */
-        team:{
+        team: {
             /**
              * Campo que define al Arquitecto de software
              */
-            architect:string,
+            architect: string;
             /**
              * Campo que define al dueño del producto
              */
-            productOnwer:string,
+            productOnwer: string;
             /**
              * Campo que define al analista de requerimientos
              */
-            proxy:string,
+            proxy: string;
             /**
              * Campo que define al especialista de scrum
              */
-            scrumMaster:string,
+            scrumMaster: string;
             /**
              * Campo que define al líder técnico
              */
-            techLeader:string
-        }
-    }
+            techLeader: string;
+        };
+    };
     /**
      * Nombre de la organización
      */
-    organizationName: string
+    organizationName: string;
     /**
      * Nombre del proyecto
      */
-    projectName:string
-    states:{
-        ToDo:string[]
-        Doing:string[]
-        Done:string[]
-        Cancelled:string[]
-    }
-    types:{
-        Epic:string,
-        Feature:string,
-        UserStory:string,
-        Task:string
-    }
-    token:string
+    projectName: string;
+    states: {
+        ToDo: string[];
+        Doing: string[];
+        Done: string[];
+        Cancelled: string[];
+    };
+    types: {
+        Epic: string;
+        Feature: string;
+        UserStory: string;
+        Task: string;
+    };
+    token: string;
 }

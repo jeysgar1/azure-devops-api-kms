@@ -30,4 +30,4 @@ Historia de usuario
 
 #### Defined in
 
-[predicates/get.userstory.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/predicates/get.userstory.ts#L9)
+[predicates/get.userstory.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/predicates/get.userstory.ts#L9)

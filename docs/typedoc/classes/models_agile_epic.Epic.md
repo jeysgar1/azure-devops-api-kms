@@ -55,7 +55,7 @@ Crea una instancia de una épica
 
 #### Defined in
 
-[models/agile/epic.ts:25](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/epic.ts#L25)
+[models/agile/epic.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/epic.ts#L24)
 
 ## Properties
 
@@ -71,7 +71,7 @@ Descripción del elemento
 
 #### Defined in
 
-[models/agile/base.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L16)
+[models/agile/base.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L15)
 
 ___
 
@@ -83,7 +83,7 @@ Características que pertenecen a una épica
 
 #### Defined in
 
-[models/agile/epic.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/epic.ts#L19)
+[models/agile/epic.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/epic.ts#L18)
 
 ___
 
@@ -99,7 +99,7 @@ Identificador del elemento
 
 #### Defined in
 
-[models/agile/base.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L20)
+[models/agile/base.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L19)
 
 ___
 
@@ -115,7 +115,7 @@ Nombre del elemento
 
 #### Defined in
 
-[models/agile/base.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L24)
+[models/agile/base.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L23)
 
 ___
 
@@ -131,7 +131,7 @@ Estado del elemento
 
 #### Defined in
 
-[models/agile/base.ts:28](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L28)
+[models/agile/base.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L27)
 
 ___
 
@@ -147,7 +147,7 @@ URL de acceso al elemento
 
 #### Defined in
 
-[models/agile/base.ts:32](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L32)
+[models/agile/base.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L31)
 
 ## Methods
 
@@ -169,4 +169,4 @@ Permite filtrar las características de una épica
 
 #### Defined in
 
-[models/agile/epic.ts:34](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/epic.ts#L34)
+[models/agile/epic.ts:33](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/epic.ts#L33)

@@ -1,2 +1,2 @@
-export * from "./agile"
-export * from "./azureDevOps"
+export * from './agile';
+export * from './azureDevOps';

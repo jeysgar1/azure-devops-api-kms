@@ -1,4 +1,4 @@
-import { AzureWorkItem, UserStory } from "../models";
+import { AzureWorkItem, UserStory } from '../models';
 /**
  * Controlador encargado de gestionar las historias de usuario
  *
@@ -20,10 +20,10 @@ export declare class UserStoryController {
      */
     constructor();
     /**
-    * Permite obtener las historias de usuario de un conjunto de características
-    * @param {AzureWorkItem[] | undefined} workItems - Elementos de trabajo
-    * @returns {Array<UserStory> | undefined} Lista de historias de usuario
-    */
+     * Permite obtener las historias de usuario de un conjunto de características
+     * @param {AzureWorkItem[] | undefined} workItems - Elementos de trabajo
+     * @returns {Array<UserStory> | undefined} Lista de historias de usuario
+     */
     get(workItems: AzureWorkItem[] | undefined): Array<UserStory> | undefined;
 }
 //# sourceMappingURL=userStory.controller.d.ts.map

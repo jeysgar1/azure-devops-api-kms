@@ -1,11 +1,11 @@
-import { WorkItemStates } from "../../categories";
+import { WorkItemStates } from '../../categories';
 export declare class Project {
     /**
-* Descripción del proyecto
-* @date 9/8/2023 - 2:11:04 PM
-*
-* @type {string | undefined}
-*/
+     * Descripción del proyecto
+     * @date 9/8/2023 - 2:11:04 PM
+     *
+     * @type {string | undefined}
+     */
     description: string | undefined;
     /**
      * Identificador del proyecto

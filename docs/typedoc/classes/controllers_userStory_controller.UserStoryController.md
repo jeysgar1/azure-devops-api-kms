@@ -31,7 +31,7 @@ Crea una instancia del controlador
 
 #### Defined in
 
-[controllers/userStory.controller.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/userStory.controller.ts#L27)
+[controllers/userStory.controller.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/userStory.controller.ts#L26)
 
 ## Properties
 
@@ -43,7 +43,7 @@ Instancia encargada de gestionar el acceso sobre Azure DevOps
 
 #### Defined in
 
-[controllers/userStory.controller.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/userStory.controller.ts#L18)
+[controllers/userStory.controller.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/userStory.controller.ts#L17)
 
 ___
 
@@ -55,7 +55,7 @@ Instancia encargada de gestionar las características
 
 #### Defined in
 
-[controllers/userStory.controller.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/userStory.controller.ts#L22)
+[controllers/userStory.controller.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/userStory.controller.ts#L21)
 
 ## Methods
 
@@ -79,4 +79,4 @@ Lista de historias de usuario
 
 #### Defined in
 
-[controllers/userStory.controller.ts:37](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/userStory.controller.ts#L37)
+[controllers/userStory.controller.ts:36](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/userStory.controller.ts#L36)

@@ -30,4 +30,4 @@ Tarea
 
 #### Defined in
 
-[predicates/get.task.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/predicates/get.task.ts#L9)
+[predicates/get.task.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/predicates/get.task.ts#L9)

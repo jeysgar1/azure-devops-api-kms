@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[config/configInstance.ts:68](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/config/configInstance.ts#L68)
+[config/configInstance.ts:97](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/config/configInstance.ts#L97)

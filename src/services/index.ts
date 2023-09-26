@@ -1,4 +1,3 @@
-import { AzureDevOpsClient } from "./azure.devops.client";
+import { AzureDevOpsClient } from './azure.devops.client';
 
-
-export {AzureDevOpsClient}
+export { AzureDevOpsClient };

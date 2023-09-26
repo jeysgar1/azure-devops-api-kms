@@ -1,4 +1,4 @@
-import { AzureGetProjectsItemResponse, AzureGetWorkItemResponse } from "../models";
+import { AzureGetProjectsItemResponse, AzureGetWorkItemResponse } from '../models';
 export declare class AzureDevOpsClient {
     private createConnection;
     getProjects(): Promise<AzureGetProjectsItemResponse[] | undefined>;

@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[index.ts:41](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/index.ts#L41)
+[index.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/index.ts#L40)

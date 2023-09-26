@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[test/iTestConfig.ts:3](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/test/iTestConfig.ts#L3)
+[test/iTestConfig.ts:3](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/test/iTestConfig.ts#L3)

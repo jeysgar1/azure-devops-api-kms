@@ -1,4 +1,4 @@
-import { AzureGetWorkItemRelationResponse } from "./azureGetWorkItemRelationResponse";
+import { AzureGetWorkItemRelationResponse } from './azureGetWorkItemRelationResponse';
 /**
  * Elemento de trabajo obtenido al consumir la API de Azure DevOps
  *

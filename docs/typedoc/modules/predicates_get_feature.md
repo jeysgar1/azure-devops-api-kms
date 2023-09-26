@@ -30,4 +30,4 @@ Característica
 
 #### Defined in
 
-[predicates/get.feature.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/predicates/get.feature.ts#L9)
+[predicates/get.feature.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/predicates/get.feature.ts#L9)

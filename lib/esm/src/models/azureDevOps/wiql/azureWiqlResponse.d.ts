@@ -1,4 +1,4 @@
-import { AzureWiqlItemResponse } from "./azureWiqlItemResponse";
+import { AzureWiqlItemResponse } from './azureWiqlItemResponse';
 /**
  * Elemento de trabajo obtenido al consumir la API de Azure DevOps con WIQL
  *

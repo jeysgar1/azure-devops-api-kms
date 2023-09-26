@@ -1,1 +1,1 @@
-{"version":3,"file":"get.epic.d.ts","sourceRoot":"","sources":["../../../../src/predicates/get.epic.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,aAAa,EAAE,IAAI,EAAE,MAAM,WAAW,CAAC;AAEhD;;;;GAIG;AACH,wBAAgB,OAAO,CAAC,aAAa,EAAE,aAAa,GAAI,IAAI,GAAG,SAAS,CAGvE"}
+{"version":3,"file":"get.epic.d.ts","sourceRoot":"","sources":["../../../../src/predicates/get.epic.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,aAAa,EAAE,IAAI,EAAE,MAAM,WAAW,CAAC;AAEhD;;;;GAIG;AACH,wBAAgB,OAAO,CAAC,aAAa,EAAE,aAAa,GAAG,IAAI,GAAG,SAAS,CAItE"}

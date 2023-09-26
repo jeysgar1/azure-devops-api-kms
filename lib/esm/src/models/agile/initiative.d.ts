@@ -1,4 +1,4 @@
-import { UserStory } from "./userStory";
+import { UserStory } from './userStory';
 /**
  * Datos comúnes en los elementos de trabajo
  *
@@ -22,8 +22,8 @@ export declare class Initiative {
      */
     name: string | undefined;
     /**
-    * Historias de usuario asociadas a la iniciativa
-    */
+     * Historias de usuario asociadas a la iniciativa
+     */
     userStories: Array<UserStory> | undefined;
     /**
      * Permite crear una iniciativa

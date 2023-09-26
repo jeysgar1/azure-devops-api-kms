@@ -15,7 +15,6 @@
 Ƭ **WorkItemTypesHomologation**: `Object`
 
 Definición que da la aplicación sobre los tipos de elementos de trabajo
- 
 
 #### Type declaration
 
@@ -28,4 +27,4 @@ Definición que da la aplicación sobre los tipos de elementos de trabajo
 
 #### Defined in
 
-[categories/workItemTypesHomologation.ts:6](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemTypesHomologation.ts#L6)
+[categories/workItemTypesHomologation.ts:6](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemTypesHomologation.ts#L6)

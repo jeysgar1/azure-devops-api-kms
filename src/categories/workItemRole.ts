@@ -1,18 +1,17 @@
-
 /**
  * Definición que da la aplicación sobre los roles que puede tener una o varias personas en un equipo de trabajo
- * @enum 
+ * @enum
  * {@label Roles en un equipo de trabajo}
-*/
+ */
 export const WorkItemRole = {
     // Arquitecto de software
-    Architect:'Arquitecto',
+    Architect: 'Arquitecto',
     // Scrum master
-    ScrumMaster:'Scrum Master',
+    ScrumMaster: 'Scrum Master',
     // Dueño del producto
-    ProductOwner:'Product Owner',
+    ProductOwner: 'Product Owner',
     // Analista funcional
-    Proxy:'Proxy',
+    Proxy: 'Proxy',
     // Líder técnico
-    TechLeader:'Tech Leader'
+    TechLeader: 'Tech Leader',
 } as const;

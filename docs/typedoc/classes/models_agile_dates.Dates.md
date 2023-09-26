@@ -35,7 +35,7 @@ Fecha de finalización
 
 #### Defined in
 
-[models/agile/dates.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/dates.ts#L13)
+[models/agile/dates.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/dates.ts#L12)
 
 ___
 
@@ -47,7 +47,7 @@ Fecha de creación
 
 #### Defined in
 
-[models/agile/dates.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/dates.ts#L17)
+[models/agile/dates.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/dates.ts#L16)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[models/agile/dates.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/dates.ts#L21)
+[models/agile/dates.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/dates.ts#L20)
 
 ___
 
@@ -71,4 +71,4 @@ Fecha de publicación en ambiente productivo o propuesta
 
 #### Defined in
 
-[models/agile/dates.ts:25](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/dates.ts#L25)
+[models/agile/dates.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/dates.ts#L24)

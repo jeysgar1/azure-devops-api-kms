@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[models/azureDevOps/getProjects/resourceURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getProjects/resourceURI.ts#L1)
+[models/azureDevOps/getProjects/resourceURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getProjects/resourceURI.ts#L1)

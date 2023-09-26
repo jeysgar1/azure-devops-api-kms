@@ -1,6 +1,6 @@
-import { AzureWorkItem } from "../azureDevOps";
-import { Base } from "./base";
-import { Feature } from "./feature";
+import { AzureWorkItem } from '../azureDevOps';
+import { Base } from './base';
+import { Feature } from './feature';
 /**
  * Épica
  *

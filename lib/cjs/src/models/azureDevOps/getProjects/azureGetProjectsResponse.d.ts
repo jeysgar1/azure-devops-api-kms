@@ -1,4 +1,4 @@
-import { AzureGetProjectsItemResponse } from "./azureGetProjectsItemResponse";
+import { AzureGetProjectsItemResponse } from './azureGetProjectsItemResponse';
 /**
  * Respuesta al consumo de la API que permite consultar los proyectos
  *

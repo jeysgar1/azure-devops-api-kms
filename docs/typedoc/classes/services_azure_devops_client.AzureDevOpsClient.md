@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[services/azure.devops.client.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/services/azure.devops.client.ts#L9)
+[services/azure.devops.client.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/services/azure.devops.client.ts#L19)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[services/azure.devops.client.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/services/azure.devops.client.ts#L26)
+[services/azure.devops.client.ts:50](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/services/azure.devops.client.ts#L50)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[services/azure.devops.client.ts:32](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/services/azure.devops.client.ts#L32)
+[services/azure.devops.client.ts:58](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/services/azure.devops.client.ts#L58)
 
 ___
 
@@ -89,4 +89,4 @@ ___
 
 #### Defined in
 
-[services/azure.devops.client.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/services/azure.devops.client.ts#L38)
+[services/azure.devops.client.ts:68](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/services/azure.devops.client.ts#L68)

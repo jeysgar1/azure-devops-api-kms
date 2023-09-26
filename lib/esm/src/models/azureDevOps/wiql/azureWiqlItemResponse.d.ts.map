@@ -1,1 +1,1 @@
-{"version":3,"file":"azureWiqlItemResponse.d.ts","sourceRoot":"","sources":["../../../../../../src/models/azureDevOps/wiql/azureWiqlItemResponse.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,qBAAa,qBAAqB;IAG9B,EAAE,EAAE,MAAM,GAAG,SAAS,CAAA;IAEtB,GAAG,EAAE,MAAM,GAAG,SAAS,CAAA;CAC1B"}
+{"version":3,"file":"azureWiqlItemResponse.d.ts","sourceRoot":"","sources":["../../../../../../src/models/azureDevOps/wiql/azureWiqlItemResponse.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,qBAAa,qBAAqB;IAE9B,EAAE,EAAE,MAAM,GAAG,SAAS,CAAC;IAEvB,GAAG,EAAE,MAAM,GAAG,SAAS,CAAC;CAC3B"}

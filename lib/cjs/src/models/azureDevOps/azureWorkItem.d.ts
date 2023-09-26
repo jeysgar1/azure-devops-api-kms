@@ -1,6 +1,6 @@
-import { WorkItemStates, WorkItemTypes } from "../../categories";
-import { Person, Project } from "../agile";
-import { AzureGetWorkItemResponse } from "./getWorkItems";
+import { WorkItemStates, WorkItemTypes } from '../../categories';
+import { Person, Project } from '../agile';
+import { AzureGetWorkItemResponse } from './getWorkItems';
 /**
  * Elemento de trabajo transformado al consumir la API de Azure DevOps
  *

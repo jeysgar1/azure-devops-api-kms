@@ -5,7 +5,6 @@
 [categories/workItemStates](../modules/categories_workItemStates.md).WorkItemStates
 
 Definición que da la aplicación sobre los estados que puede tener un elemento de trabajo
- 
 
 ## Table of contents
 
@@ -25,7 +24,7 @@ Definición que da la aplicación sobre los estados que puede tener un elemento 
 
 #### Defined in
 
-[categories/workItemStates.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemStates.ts#L15)
+[categories/workItemStates.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemStates.ts#L14)
 
 ___
 
@@ -35,7 +34,7 @@ ___
 
 #### Defined in
 
-[categories/workItemStates.ts:11](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemStates.ts#L11)
+[categories/workItemStates.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemStates.ts#L10)
 
 ___
 
@@ -45,7 +44,7 @@ ___
 
 #### Defined in
 
-[categories/workItemStates.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemStates.ts#L13)
+[categories/workItemStates.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemStates.ts#L12)
 
 ___
 
@@ -55,7 +54,7 @@ ___
 
 #### Defined in
 
-[categories/workItemStates.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemStates.ts#L9)
+[categories/workItemStates.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemStates.ts#L8)
 
 ___
 
@@ -65,4 +64,4 @@ ___
 
 #### Defined in
 
-[categories/workItemStates.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemStates.ts#L17)
+[categories/workItemStates.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemStates.ts#L16)

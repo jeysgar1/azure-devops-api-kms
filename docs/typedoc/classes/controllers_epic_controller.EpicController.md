@@ -45,7 +45,7 @@ Lista de epicas
 
 #### Defined in
 
-[controllers/epic.controller.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/epic.controller.ts#L23)
+[controllers/epic.controller.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/epic.controller.ts#L20)
 
 ___
 
@@ -69,4 +69,4 @@ Archivos adjuntos y wiki
 
 #### Defined in
 
-[controllers/epic.controller.ts:47](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/epic.controller.ts#L47)
+[controllers/epic.controller.ts:47](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/epic.controller.ts#L47)

@@ -1,12 +1,12 @@
-import { WorkItemStates } from "../../categories";
+import { WorkItemStates } from '../../categories';
 
 export class Project {
     /**
-* Descripción del proyecto
-* @date 9/8/2023 - 2:11:04 PM
-*
-* @type {string | undefined}
-*/
+     * Descripción del proyecto
+     * @date 9/8/2023 - 2:11:04 PM
+     *
+     * @type {string | undefined}
+     */
     description: string | undefined;
     /**
      * Identificador del proyecto
@@ -41,7 +41,7 @@ export class Project {
      * Crea un proyecto
      * @param {string} name - Nombre del proyecto
      */
-    constructor(name:string){
+    constructor(name: string) {
         this.name = name;
     }
 }

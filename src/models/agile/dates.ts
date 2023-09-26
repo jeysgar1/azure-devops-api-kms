@@ -1,26 +1,25 @@
-
 /**
  * Fechas asociadas al elemento de trabajo
- * 
+ *
  * @category Models
- * 
+ *
  * {@label Clases genéricas}
  */
 export class Dates {
     /**
      * Fecha de finalización
      */
-    closed: string | undefined
+    closed: string | undefined;
     /**
      * Fecha de creación
      */
-    creation: string | undefined
+    creation: string | undefined;
     /**
      * Última fecha de actualización
      */
-    lastUpdated: string | undefined
+    lastUpdated: string | undefined;
     /**
      * Fecha de publicación en ambiente productivo o propuesta
      */
-    release: string | undefined
+    release: string | undefined;
 }

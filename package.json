@@ -35,7 +35,7 @@
   "private": false,
   "husky": {
     "hooks": {
-      "pre-commit": "pnpm run test && pnpm run prettier && pnpm run lint && pnpm run docs:clean && pnpm run docs"
+      "pre-commit": "pnpm run build"
     }
   },
   "repository": {
@@ -53,10 +53,8 @@
     "lint": "eslint . --ext .ts",
     "prettier": "prettier --config .prettierrc \"./src/**/*.ts\" --write",
     "test": "jest",
-    "docs": "pnpm run docs:clean && typedoc --options typedoc.json",
-    "docs:clean": "rimraf ./docs/typedoc",
     "docs:run": "docsify serve ./docs",
-    "build": "rimraf ./lib && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
+    "build": "rimraf ./lib && rimraf ./docs/typedoc && pnpm run lint && pnpm run prettier && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && jest && typedoc --options typedoc.json",
     "release:major": "npm version $(semver $npm_package_version -i major) && npm publish --tag latest",
     "release:minor": "npm version $(semver $npm_package_version -i minor) && npm publish --tag latest",
     "release:patch": "npm version $(semver $npm_package_version -i patch) && npm publish --tag latest",

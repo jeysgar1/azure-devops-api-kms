@@ -34,7 +34,7 @@ Crea una instancia del controlador
 
 #### Defined in
 
-[controllers/initiative.controller.ts:41](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/initiative.controller.ts#L41)
+[controllers/initiative.controller.ts:47](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/initiative.controller.ts#L47)
 
 ## Properties
 
@@ -46,7 +46,7 @@ Instancia encargada de gestionar todo al rededor de agilidad
 
 #### Defined in
 
-[controllers/initiative.controller.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/initiative.controller.ts#L20)
+[controllers/initiative.controller.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/initiative.controller.ts#L26)
 
 ___
 
@@ -58,7 +58,7 @@ Instancia encargada de gestionar las épicas
 
 #### Defined in
 
-[controllers/initiative.controller.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/initiative.controller.ts#L24)
+[controllers/initiative.controller.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/initiative.controller.ts#L30)
 
 ___
 
@@ -70,7 +70,7 @@ Instancia encargada de gestionar las caracteristicas
 
 #### Defined in
 
-[controllers/initiative.controller.ts:28](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/initiative.controller.ts#L28)
+[controllers/initiative.controller.ts:34](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/initiative.controller.ts#L34)
 
 ___
 
@@ -82,7 +82,7 @@ Instancia encargada de gestionar las tareas
 
 #### Defined in
 
-[controllers/initiative.controller.ts:32](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/initiative.controller.ts#L32)
+[controllers/initiative.controller.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/initiative.controller.ts#L38)
 
 ___
 
@@ -94,7 +94,7 @@ Instancia encargada de gestionar las historias de usuario
 
 #### Defined in
 
-[controllers/initiative.controller.ts:36](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/initiative.controller.ts#L36)
+[controllers/initiative.controller.ts:42](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/initiative.controller.ts#L42)
 
 ## Methods
 
@@ -118,4 +118,4 @@ Iniciativa
 
 #### Defined in
 
-[controllers/initiative.controller.ts:54](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/initiative.controller.ts#L54)
+[controllers/initiative.controller.ts:60](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/initiative.controller.ts#L60)

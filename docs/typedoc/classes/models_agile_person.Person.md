@@ -37,7 +37,7 @@ Correo electrónico de la persona
 
 #### Defined in
 
-[models/agile/person.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/person.ts#L16)
+[models/agile/person.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/person.ts#L15)
 
 ___
 
@@ -53,4 +53,4 @@ Nombre de la persona
 
 #### Defined in
 
-[models/agile/person.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/person.ts#L23)
+[models/agile/person.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/person.ts#L22)

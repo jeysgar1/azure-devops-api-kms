@@ -31,7 +31,7 @@ Respuesta al consumo de la API que permite consultar los proyectos
 
 #### Defined in
 
-[models/azureDevOps/getProjects/azureGetProjectsResponse.ts:11](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getProjects/azureGetProjectsResponse.ts#L11)
+[models/azureDevOps/getProjects/azureGetProjectsResponse.ts:11](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getProjects/azureGetProjectsResponse.ts#L11)
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getProjects/azureGetProjectsResponse.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getProjects/azureGetProjectsResponse.ts#L13)
+[models/azureDevOps/getProjects/azureGetProjectsResponse.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getProjects/azureGetProjectsResponse.ts#L13)

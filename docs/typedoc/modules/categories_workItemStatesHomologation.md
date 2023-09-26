@@ -15,7 +15,6 @@
 Ƭ **WorkItemStatesHomologation**: `Object`
 
 Definición que da la organización en Azure DevOps para un conjunto de estados que deben ser homologados
- 
 
 #### Type declaration
 
@@ -28,4 +27,4 @@ Definición que da la organización en Azure DevOps para un conjunto de estados 
 
 #### Defined in
 
-[categories/workItemStatesHomologation.ts:7](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemStatesHomologation.ts#L7)
+[categories/workItemStatesHomologation.ts:6](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemStatesHomologation.ts#L6)

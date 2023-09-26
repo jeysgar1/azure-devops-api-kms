@@ -56,7 +56,7 @@ Crea una característica
 
 #### Defined in
 
-[models/agile/feature.ts:29](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/feature.ts#L29)
+[models/agile/feature.ts:28](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/feature.ts#L28)
 
 ## Properties
 
@@ -72,7 +72,7 @@ Descripción del elemento
 
 #### Defined in
 
-[models/agile/base.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L16)
+[models/agile/base.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L15)
 
 ___
 
@@ -84,7 +84,7 @@ Identificador de la épica
 
 #### Defined in
 
-[models/agile/feature.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/feature.ts#L19)
+[models/agile/feature.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/feature.ts#L18)
 
 ___
 
@@ -100,7 +100,7 @@ Identificador del elemento
 
 #### Defined in
 
-[models/agile/base.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L20)
+[models/agile/base.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L19)
 
 ___
 
@@ -116,7 +116,7 @@ Nombre del elemento
 
 #### Defined in
 
-[models/agile/base.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L24)
+[models/agile/base.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L23)
 
 ___
 
@@ -132,7 +132,7 @@ Estado del elemento
 
 #### Defined in
 
-[models/agile/base.ts:28](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L28)
+[models/agile/base.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L27)
 
 ___
 
@@ -148,7 +148,7 @@ URL de acceso al elemento
 
 #### Defined in
 
-[models/agile/base.ts:32](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/base.ts#L32)
+[models/agile/base.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L31)
 
 ___
 
@@ -160,7 +160,7 @@ Historias de usuario asociadas a una historia de usuario
 
 #### Defined in
 
-[models/agile/feature.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/feature.ts#L23)
+[models/agile/feature.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/feature.ts#L22)
 
 ## Methods
 
@@ -182,4 +182,4 @@ Permite seleccionar las historias de usuario de una caracteristica
 
 #### Defined in
 
-[models/agile/feature.ts:41](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/feature.ts#L41)
+[models/agile/feature.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/feature.ts#L40)

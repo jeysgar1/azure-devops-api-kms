@@ -1,8 +1,8 @@
 /**
  * Persona obtenida al consumir la API de Azure DevOps
- * 
+ *
  * @category Models
- * 
+ *
  * {@label Azure DevOps}
  */
 

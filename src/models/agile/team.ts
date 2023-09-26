@@ -1,22 +1,22 @@
-import { AzureWorkItem } from "../azureDevOps";
-import { Person } from "./person";
+import { AzureWorkItem } from '../azureDevOps';
+import { Person } from './person';
 
 /**
- * Equipo de trabajo 
- * 
+ * Equipo de trabajo
+ *
  * @category Agile
- * 
+ *
  * {@label Equipo de trabajo}
  */
 export class Team {
     /**
      * Arquitecto asignado
      */
-    architect? : Person | undefined;
+    architect?: Person | undefined;
     /**
      * Propietario del producto
      */
-    productOwner? : Person | undefined;
+    productOwner?: Person | undefined;
     /**
      * Analista funcional
      */
@@ -28,13 +28,13 @@ export class Team {
     /**
      * Experto en SCRUM
      */
-    scrumMaster? : Person | undefined;
-    
+    scrumMaster?: Person | undefined;
+
     /**
      * Crea un equipo de trabajo
      * @param {AzureWorkItem} azureWorkItem - Elemento de trabajo
      */
-    constructor(azureWorkItem:AzureWorkItem){
+    constructor(azureWorkItem: AzureWorkItem) {
         this.architect = azureWorkItem.architect;
         this.productOwner = azureWorkItem.productOwner;
         this.proxy = azureWorkItem.proxy;

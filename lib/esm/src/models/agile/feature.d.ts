@@ -1,6 +1,6 @@
-import { AzureWorkItem } from "../azureDevOps";
-import { Base } from "./base";
-import { UserStory } from "./userStory";
+import { AzureWorkItem } from '../azureDevOps';
+import { Base } from './base';
+import { UserStory } from './userStory';
 /**
  * Característica
  *

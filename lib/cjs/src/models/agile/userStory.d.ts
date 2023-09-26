@@ -1,9 +1,9 @@
-import { AzureWorkItem } from "../azureDevOps";
-import { Base } from "./base";
-import { Feature } from "./feature";
-import { Project } from "./project";
-import { Task } from "./task";
-import { Team } from "./team";
+import { AzureWorkItem } from '../azureDevOps';
+import { Base } from './base';
+import { Feature } from './feature';
+import { Project } from './project';
+import { Task } from './task';
+import { Team } from './team';
 /**
  * Datos comúnes en los elementos de trabajo
  *

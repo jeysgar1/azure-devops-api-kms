@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[models/azureDevOps/baseURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/baseURI.ts#L1)
+[models/azureDevOps/baseURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/baseURI.ts#L1)

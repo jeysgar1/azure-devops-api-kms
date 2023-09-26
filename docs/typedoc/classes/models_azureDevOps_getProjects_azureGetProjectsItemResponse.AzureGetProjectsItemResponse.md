@@ -34,7 +34,7 @@ Respuesta al consumo de la API que permite consultar los proyectos
 
 #### Defined in
 
-[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L10)
+[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L10)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L12)
+[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L12)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L14)
+[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L14)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L16)
+[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L16)
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L18)
+[models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getProjects/azureGetProjectsItemResponse.ts#L18)

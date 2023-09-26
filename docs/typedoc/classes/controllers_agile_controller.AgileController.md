@@ -37,7 +37,7 @@ con Azure DevOps
 
 #### Defined in
 
-[controllers/agile.controller.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/agile.controller.ts#L16)
+[controllers/agile.controller.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/agile.controller.ts#L18)
 
 ## Methods
 
@@ -61,7 +61,7 @@ Permite obtener los elementos de trabajo a partir de un identificador de una ini
 
 #### Defined in
 
-[controllers/agile.controller.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/agile.controller.ts#L24)
+[controllers/agile.controller.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/agile.controller.ts#L26)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[controllers/agile.controller.ts:33](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/agile.controller.ts#L33)
+[controllers/agile.controller.ts:37](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/agile.controller.ts#L37)
 
 ___
 
@@ -99,4 +99,4 @@ Permite obtener los proyectos creados en Azure DevOps para una organización
 
 #### Defined in
 
-[controllers/agile.controller.ts:51](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/agile.controller.ts#L51)
+[controllers/agile.controller.ts:59](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/agile.controller.ts#L59)

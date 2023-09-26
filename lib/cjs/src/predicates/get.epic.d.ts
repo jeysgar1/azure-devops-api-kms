@@ -1,4 +1,4 @@
-import { AzureWorkItem, Epic } from "../models";
+import { AzureWorkItem, Epic } from '../models';
 /**
  * Permite transformar un elemento Azure DevOps
  * @param {AzureWorkItem} azureWorkItem - Elemento de trabajo en Azure DevOps

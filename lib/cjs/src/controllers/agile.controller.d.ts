@@ -1,5 +1,5 @@
-import { AzureGetProjectsItemResponse, AzureWorkItem } from "../models";
-import { AzureDevOpsClient } from "../services/azure.devops.client";
+import { AzureGetProjectsItemResponse, AzureWorkItem } from '../models';
+import { AzureDevOpsClient } from '../services/azure.devops.client';
 /**
  * Controlador encargado de establecer una comunicación con el cliente API de integración
  * con Azure DevOps

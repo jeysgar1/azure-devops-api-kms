@@ -31,7 +31,7 @@ Elemento de trabajo obtenido al consumir la API de Azure DevOps
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemsResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getWorkItems/azureGetWorkItemsResponse.ts#L12)
+[models/azureDevOps/getWorkItems/azureGetWorkItemsResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemsResponse.ts#L12)
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemsResponse.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/getWorkItems/azureGetWorkItemsResponse.ts#L14)
+[models/azureDevOps/getWorkItems/azureGetWorkItemsResponse.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemsResponse.ts#L14)

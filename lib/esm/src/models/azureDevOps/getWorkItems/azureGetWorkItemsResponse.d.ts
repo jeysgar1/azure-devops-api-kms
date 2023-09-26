@@ -1,4 +1,4 @@
-import { AzureGetWorkItemResponse } from "./azureGetWorkItemResponse";
+import { AzureGetWorkItemResponse } from './azureGetWorkItemResponse';
 /**
  * Elemento de trabajo obtenido al consumir la API de Azure DevOps
  *

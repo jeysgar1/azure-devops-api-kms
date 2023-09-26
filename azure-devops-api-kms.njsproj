@@ -30,6 +30,8 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include=".prettierignore" />
+    <Content Include=".prettierrc" />
     <Content Include="docs\.nojekyll" />
     <Content Include="docs\index.html" />
     <Content Include="docs\README.md" />

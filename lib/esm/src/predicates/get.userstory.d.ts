@@ -1,4 +1,4 @@
-import { AzureWorkItem, UserStory } from "../models";
+import { AzureWorkItem, UserStory } from '../models';
 /**
  * Permite obtener una Historia de usuario
  * @param {AzureWorkItem} azureWorkItem - Elemento de trabajo

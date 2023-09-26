@@ -1,4 +1,4 @@
-import { AzureWorkItem, Task } from "../models";
+import { AzureWorkItem, Task } from '../models';
 /**
  * Permite obtener una tarea
  * @param {AzureWorkItem} azureWorkItem - Elemento de trabajo

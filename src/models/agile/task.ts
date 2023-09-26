@@ -1,24 +1,23 @@
-import { AzureWorkItem } from "../azureDevOps";
-import { Base } from "./base";
-import { Person } from "./person";
+import { AzureWorkItem } from '../azureDevOps';
+import { Base } from './base';
+import { Person } from './person';
 
 /**
  * Datos comúnes en los elementos de trabajo
- * 
+ *
  * @see (¿Tareas?)[]
- * 
+ *
  * @category Models
- * 
+ *
  * {@label Iniciativas}
  */
 export class Task extends Base {
-
     /**
-    * Persona asignada a ejecutar la tarea
-    * @date 9/8/2023 - 4:43:14 PM
-    *
-    * @type {(Person | undefined)}
-    */
+     * Persona asignada a ejecutar la tarea
+     * @date 9/8/2023 - 4:43:14 PM
+     *
+     * @type {(Person | undefined)}
+     */
     assignedTo: Person | undefined;
 
     /**
@@ -33,11 +32,13 @@ export class Task extends Base {
      * Permite crear una tarea
      * @param {AzureWorkItem | undefined|string} azureWorkItem - Elemento de trabajo
      */
-    constructor(azureWorkItem:AzureWorkItem | undefined|string){
+    constructor(azureWorkItem: AzureWorkItem | undefined | string) {
         super(azureWorkItem);
-        if(typeof azureWorkItem !== "string"){
+        if (typeof azureWorkItem !== 'string') {
             this.assignedTo = azureWorkItem?.assignedTo;
-            this.userStoryId = azureWorkItem?.parents?[0].toString() : undefined;
+            this.userStoryId = azureWorkItem?.parents
+                ? [0].toString()
+                : undefined;
         }
     }
 }

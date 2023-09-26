@@ -30,7 +30,7 @@ Crea una instancia del controlador
 
 #### Defined in
 
-[controllers/feature.controller.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/feature.controller.ts#L22)
+[controllers/feature.controller.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/feature.controller.ts#L21)
 
 ## Properties
 
@@ -42,7 +42,7 @@ Instancia del controlador encargado de integrarse con Azure DevOps
 
 #### Defined in
 
-[controllers/feature.controller.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/feature.controller.ts#L17)
+[controllers/feature.controller.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/feature.controller.ts#L16)
 
 ## Methods
 
@@ -66,4 +66,4 @@ Lista de características
 
 #### Defined in
 
-[controllers/feature.controller.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/controllers/feature.controller.ts#L31)
+[controllers/feature.controller.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/feature.controller.ts#L30)

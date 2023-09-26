@@ -30,4 +30,4 @@ Elemento de trabajo obtenido al consumir la API de Azure DevOps con WIQL
 
 #### Defined in
 
-[models/azureDevOps/wiql/azureWiqlResponse.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/wiql/azureWiqlResponse.ts#L13)
+[models/azureDevOps/wiql/azureWiqlResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/wiql/azureWiqlResponse.ts#L12)

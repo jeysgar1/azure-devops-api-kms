@@ -1,15 +1,15 @@
 /**
  * Definición que da la aplicación sobre los tipos de elementos de trabajo
- * @enum 
+ * @enum
  * {@label Tipos de elementos de trabajo}
-*/
+ */
 export type WorkItemTypesHomologation = {
     //Definición que da la oragnización a una épica
-    'Epic': string,
+    Epic: string;
     //Definición que da la oragnización a una característica
-    'Feature': string,
+    Feature: string;
     //Definición que da la oragnización a una tarea
-    'Task': string,
+    Task: string;
     //Definición que da la oragnización a una historia de usuario
-    'UserStory': string
-}
+    UserStory: string;
+};

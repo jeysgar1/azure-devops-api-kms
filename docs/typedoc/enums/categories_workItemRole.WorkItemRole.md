@@ -5,7 +5,6 @@
 [categories/workItemRole](../modules/categories_workItemRole.md).WorkItemRole
 
 Definición que da la aplicación sobre los roles que puede tener una o varias personas en un equipo de trabajo
- 
 
 ## Table of contents
 
@@ -25,7 +24,7 @@ Definición que da la aplicación sobre los roles que puede tener una o varias p
 
 #### Defined in
 
-[categories/workItemRole.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemRole.ts#L9)
+[categories/workItemRole.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L8)
 
 ___
 
@@ -35,7 +34,7 @@ ___
 
 #### Defined in
 
-[categories/workItemRole.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemRole.ts#L13)
+[categories/workItemRole.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L12)
 
 ___
 
@@ -45,7 +44,7 @@ ___
 
 #### Defined in
 
-[categories/workItemRole.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemRole.ts#L15)
+[categories/workItemRole.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L14)
 
 ___
 
@@ -55,7 +54,7 @@ ___
 
 #### Defined in
 
-[categories/workItemRole.ts:11](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemRole.ts#L11)
+[categories/workItemRole.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L10)
 
 ___
 
@@ -65,4 +64,4 @@ ___
 
 #### Defined in
 
-[categories/workItemRole.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/categories/workItemRole.ts#L17)
+[categories/workItemRole.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L16)

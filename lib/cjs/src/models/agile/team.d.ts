@@ -1,5 +1,5 @@
-import { AzureWorkItem } from "../azureDevOps";
-import { Person } from "./person";
+import { AzureWorkItem } from '../azureDevOps';
+import { Person } from './person';
 /**
  * Equipo de trabajo
  *

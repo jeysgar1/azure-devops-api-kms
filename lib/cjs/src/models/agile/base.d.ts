@@ -1,5 +1,5 @@
-import { WorkItemStates } from "../../categories";
-import { AzureWorkItem } from "../azureDevOps";
+import { WorkItemStates } from '../../categories';
+import { AzureWorkItem } from '../azureDevOps';
 /**
  * Datos comúnes en los elementos de trabajo
  *

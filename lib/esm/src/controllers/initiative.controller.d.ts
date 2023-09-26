@@ -1,4 +1,4 @@
-import { Initiative } from "../models";
+import { Initiative } from '../models';
 /**
  * Controlador encargado de gestionar las iniciativas
  *

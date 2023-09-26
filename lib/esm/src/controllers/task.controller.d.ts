@@ -1,4 +1,4 @@
-import { AzureWorkItem, Task } from "../models";
+import { AzureWorkItem, Task } from '../models';
 /**
  * Controlador encargado de gestionar las tareas
  *

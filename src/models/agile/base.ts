@@ -1,15 +1,14 @@
-import { WorkItemStates } from "../../categories";
-import { AzureWorkItem } from "../azureDevOps";
+import { WorkItemStates } from '../../categories';
+import { AzureWorkItem } from '../azureDevOps';
 
 /**
  * Datos comúnes en los elementos de trabajo
- * 
+ *
  * @category Models
- * 
+ *
  * {@label Clases genéricas}
  */
 export class Base {
-
     /**
      * Descripción del elemento
      */
@@ -35,11 +34,10 @@ export class Base {
      * Permite crear una instancia
      * @param {AzureWorkItem | undefined} azureWorkItem - Elemento de trabajo
      */
-    constructor(azureWorkItem:AzureWorkItem | undefined|string) {
-        if(typeof azureWorkItem === "string"){
+    constructor(azureWorkItem: AzureWorkItem | undefined | string) {
+        if (typeof azureWorkItem === 'string') {
             this.id = azureWorkItem;
-        }
-        else{
+        } else {
             this.id = azureWorkItem?.id;
             this.description = azureWorkItem?.description;
             this.name = azureWorkItem?.title;

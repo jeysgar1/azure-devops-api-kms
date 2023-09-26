@@ -41,7 +41,7 @@ Permite crear una iniciativa
 
 #### Defined in
 
-[models/agile/initiative.ts:39](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/initiative.ts#L39)
+[models/agile/initiative.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/initiative.ts#L38)
 
 ## Properties
 
@@ -53,7 +53,7 @@ Adjuntos asociados a una iniciativa
 
 #### Defined in
 
-[models/agile/initiative.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/initiative.ts#L18)
+[models/agile/initiative.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/initiative.ts#L17)
 
 ___
 
@@ -65,7 +65,7 @@ Identificador de una iniciativa
 
 #### Defined in
 
-[models/agile/initiative.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/initiative.ts#L22)
+[models/agile/initiative.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/initiative.ts#L21)
 
 ___
 
@@ -77,7 +77,7 @@ Nombre de la iniciativa
 
 #### Defined in
 
-[models/agile/initiative.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/initiative.ts#L26)
+[models/agile/initiative.ts:25](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/initiative.ts#L25)
 
 ___
 
@@ -89,4 +89,4 @@ Historias de usuario asociadas a la iniciativa
 
 #### Defined in
 
-[models/agile/initiative.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/agile/initiative.ts#L30)
+[models/agile/initiative.ts:29](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/initiative.ts#L29)

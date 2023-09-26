@@ -1,4 +1,4 @@
-import { iAppConfig } from "./iAppConfig";
+import { iAppConfig } from './iAppConfig';
 declare class ConfigInstance {
     private appConfig?;
     static instance?: ConfigInstance;

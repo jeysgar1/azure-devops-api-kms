@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[models/azureDevOps/wiql/query.ts:3](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/models/azureDevOps/wiql/query.ts#L3)
+[models/azureDevOps/wiql/query.ts:3](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/wiql/query.ts#L3)

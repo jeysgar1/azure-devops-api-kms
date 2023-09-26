@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[config/iAppConfig.ts:5](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/config/iAppConfig.ts#L5)
+[config/iAppConfig.ts:2](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/config/iAppConfig.ts#L2)
 
 ___
 
@@ -47,7 +47,7 @@ Nombre de la organización
 
 #### Defined in
 
-[config/iAppConfig.ts:39](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/config/iAppConfig.ts#L39)
+[config/iAppConfig.ts:36](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/config/iAppConfig.ts#L36)
 
 ___
 
@@ -59,7 +59,7 @@ Nombre del proyecto
 
 #### Defined in
 
-[config/iAppConfig.ts:43](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/config/iAppConfig.ts#L43)
+[config/iAppConfig.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/config/iAppConfig.ts#L40)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[config/iAppConfig.ts:44](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/config/iAppConfig.ts#L44)
+[config/iAppConfig.ts:41](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/config/iAppConfig.ts#L41)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[config/iAppConfig.ts:56](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/config/iAppConfig.ts#L56)
+[config/iAppConfig.ts:53](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/config/iAppConfig.ts#L53)
 
 ___
 
@@ -107,4 +107,4 @@ ___
 
 #### Defined in
 
-[config/iAppConfig.ts:50](https://github.com/jeysgar1/azure-devops-api-kms/blob/9e6388c/src/config/iAppConfig.ts#L50)
+[config/iAppConfig.ts:47](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/config/iAppConfig.ts#L47)
