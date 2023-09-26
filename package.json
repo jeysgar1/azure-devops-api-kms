@@ -1,6 +1,6 @@
 {
   "name": "azure-devops-api-kms",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Obtiene el conocimiento tácito generado durante la documentación de los elementos de trabajo en Azure DevOps dentro de una organización y lo transforma en conocimiento explícito",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
@@ -48,17 +48,16 @@
   "homepage": "https://github.com/jeysgar1/azure-devops-api-kms#readme",
   "scripts": {
     "prepare": "husky install",
-    "preinstall": "npm i -g pnpm && npm i -g rimraf && npm i -g jest && npm i -g typescript && npm i -g typedoc && npm i -g docsify-cli && npx only-allow pnpm",
+    "preinstall": "npm i -g pnpm && npm i -g np && npm i -g rimraf && npm i -g jest && npm i -g typescript && npm i -g typedoc && npm i -g docsify-cli && npx only-allow pnpm",
     "clean": "rimraf node_modules && rimraf ./lib",
     "lint": "eslint . --ext .ts",
     "prettier": "prettier --config .prettierrc \"./src/**/*.ts\" --write",
     "test": "jest",
     "docs:run": "docsify serve ./docs",
     "build": "rimraf ./lib && rimraf ./docs/typedoc && pnpm run lint && pnpm run prettier && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && jest && typedoc --options typedoc.json",
-    "release:major": "npm version $(semver $npm_package_version -i major) && npm publish --tag latest",
-    "release:minor": "npm version $(semver $npm_package_version -i minor) && npm publish --tag latest",
-    "release:patch": "npm version $(semver $npm_package_version -i patch) && npm publish --tag latest",
-    "release:beta": "npm version $(semver $npm_package_version -i prerelease --preid $(npm whoami) ) && npm publish --tag beta"
+    "release:patch": "npm version patch --force && npm publish",
+    "release:major": "npm version major --force && npm publish",
+    "release:minor": "npm version minor --force && npm publish"
   },
   "devDependencies": {
     "@types/jest": "^29.5.4",
@@ -84,7 +83,6 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "axios": "^1.5.0",
-    "semver": "^7.5.4"
+    "axios": "^1.5.0"
   }
 }
