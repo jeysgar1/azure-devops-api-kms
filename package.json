@@ -55,9 +55,9 @@
     "test": "jest",
     "docs:run": "docsify serve ./docs",
     "build": "rimraf ./lib && rimraf ./docs/typedoc && pnpm run lint && pnpm run prettier && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && jest && typedoc --options typedoc.json",
-    "release:patch": "npm version patch --force && npm publish",
-    "release:major": "npm version major --force && npm publish",
-    "release:minor": "npm version minor --force && npm publish"
+    "release:patch": "pnpm run build && npm version patch --force && npm publish",
+    "release:major": "pnpm run build && npm version major --force && npm publish",
+    "release:minor": "pnpm run build && npm version minor --force && npm publish"
   },
   "devDependencies": {
     "@types/jest": "^29.5.4",
