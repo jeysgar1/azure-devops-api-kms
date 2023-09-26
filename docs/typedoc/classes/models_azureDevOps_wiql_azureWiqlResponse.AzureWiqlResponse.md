@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [models/azureDevOps/wiql/azureWiqlResponse](../modules/models_azureDevOps_wiql_azureWiqlResponse.md) / AzureWiqlResponse
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / [models/azureDevOps/wiql/azureWiqlResponse](../modules/models_azureDevOps_wiql_azureWiqlResponse.md) / AzureWiqlResponse
 
 # Class: AzureWiqlResponse
 
@@ -30,4 +30,4 @@ Elemento de trabajo obtenido al consumir la API de Azure DevOps con WIQL
 
 #### Defined in
 
-[models/azureDevOps/wiql/azureWiqlResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/wiql/azureWiqlResponse.ts#L12)
+[models/azureDevOps/wiql/azureWiqlResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/azureDevOps/wiql/azureWiqlResponse.ts#L12)

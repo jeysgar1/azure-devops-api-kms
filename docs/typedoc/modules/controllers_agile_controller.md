@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / controllers/agile.controller
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / controllers/agile.controller
 
 # Module: controllers/agile.controller
 

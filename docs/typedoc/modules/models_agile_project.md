@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / models/agile/project
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / models/agile/project
 
 # Module: models/agile/project
 

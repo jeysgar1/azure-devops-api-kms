@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / test/iTestConfig
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / test/iTestConfig
 
 # Module: test/iTestConfig
 
@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[test/iTestConfig.ts:3](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/test/iTestConfig.ts#L3)
+[test/iTestConfig.ts:3](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/test/iTestConfig.ts#L3)

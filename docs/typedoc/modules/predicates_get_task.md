@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / predicates/get.task
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / predicates/get.task
 
 # Module: predicates/get.task
 
@@ -30,4 +30,4 @@ Tarea
 
 #### Defined in
 
-[predicates/get.task.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/predicates/get.task.ts#L9)
+[predicates/get.task.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/predicates/get.task.ts#L9)

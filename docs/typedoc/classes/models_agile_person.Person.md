@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [models/agile/person](../modules/models_agile_person.md) / Person
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / [models/agile/person](../modules/models_agile_person.md) / Person
 
 # Class: Person
 
@@ -37,7 +37,7 @@ Correo electrónico de la persona
 
 #### Defined in
 
-[models/agile/person.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/person.ts#L15)
+[models/agile/person.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/person.ts#L15)
 
 ___
 
@@ -53,4 +53,4 @@ Nombre de la persona
 
 #### Defined in
 
-[models/agile/person.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/person.ts#L22)
+[models/agile/person.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/person.ts#L22)

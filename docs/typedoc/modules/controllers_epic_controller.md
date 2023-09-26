@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / controllers/epic.controller
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / controllers/epic.controller
 
 # Module: controllers/epic.controller
 

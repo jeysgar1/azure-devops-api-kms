@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / index
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / index
 
 # Module: index
 
@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[index.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/index.ts#L40)
+[index.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/index.ts#L40)

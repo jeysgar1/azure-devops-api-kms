@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / categories/workItemTypes
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / categories/workItemTypes
 
 # Module: categories/workItemTypes
 

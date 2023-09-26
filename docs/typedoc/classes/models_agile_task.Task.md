@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [models/agile/task](../modules/models_agile_task.md) / Task
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / [models/agile/task](../modules/models_agile_task.md) / Task
 
 # Class: Task
 
@@ -52,7 +52,7 @@ Permite crear una tarea
 
 #### Defined in
 
-[models/agile/task.ts:35](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/task.ts#L35)
+[models/agile/task.ts:35](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/task.ts#L35)
 
 ## Properties
 
@@ -68,7 +68,7 @@ Persona asignada a ejecutar la tarea
 
 #### Defined in
 
-[models/agile/task.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/task.ts#L21)
+[models/agile/task.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/task.ts#L21)
 
 ___
 
@@ -84,7 +84,7 @@ Descripción del elemento
 
 #### Defined in
 
-[models/agile/base.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L15)
+[models/agile/base.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L15)
 
 ___
 
@@ -100,7 +100,7 @@ Identificador del elemento
 
 #### Defined in
 
-[models/agile/base.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L19)
+[models/agile/base.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L19)
 
 ___
 
@@ -116,7 +116,7 @@ Nombre del elemento
 
 #### Defined in
 
-[models/agile/base.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L23)
+[models/agile/base.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L23)
 
 ___
 
@@ -132,7 +132,7 @@ Estado del elemento
 
 #### Defined in
 
-[models/agile/base.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L27)
+[models/agile/base.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L27)
 
 ___
 
@@ -148,7 +148,7 @@ URL de acceso al elemento
 
 #### Defined in
 
-[models/agile/base.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L31)
+[models/agile/base.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L31)
 
 ___
 
@@ -164,4 +164,4 @@ Identificador de la historia de usuario
 
 #### Defined in
 
-[models/agile/task.ts:29](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/task.ts#L29)
+[models/agile/task.ts:29](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/task.ts#L29)

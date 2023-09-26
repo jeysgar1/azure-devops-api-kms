@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [models/azureDevOps/getWorkItems/azureGetWorkItemResponse](../modules/models_azureDevOps_getWorkItems_azureGetWorkItemResponse.md) / AzureGetWorkItemResponse
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / [models/azureDevOps/getWorkItems/azureGetWorkItemResponse](../modules/models_azureDevOps_getWorkItems_azureGetWorkItemResponse.md) / AzureGetWorkItemResponse
 
 # Class: AzureGetWorkItemResponse
 
@@ -33,7 +33,7 @@ Elemento de trabajo obtenido al consumir la API de Azure DevOps
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L15)
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L15)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L13)
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L13)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L17)
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L17)
 
 ___
 
@@ -63,4 +63,4 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L19)
+[models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/azureDevOps/getWorkItems/azureGetWorkItemResponse.ts#L19)

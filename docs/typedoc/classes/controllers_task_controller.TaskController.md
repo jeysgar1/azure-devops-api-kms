@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [controllers/task.controller](../modules/controllers_task_controller.md) / TaskController
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / [controllers/task.controller](../modules/controllers_task_controller.md) / TaskController
 
 # Class: TaskController
 
@@ -30,7 +30,7 @@ Crea una instancia del controlador
 
 #### Defined in
 
-[controllers/task.controller.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/task.controller.ts#L21)
+[controllers/task.controller.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/controllers/task.controller.ts#L21)
 
 ## Properties
 
@@ -42,7 +42,7 @@ Instancia asociada a gestionar el acceso sobre Azure DevOps
 
 #### Defined in
 
-[controllers/task.controller.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/task.controller.ts#L16)
+[controllers/task.controller.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/controllers/task.controller.ts#L16)
 
 ## Methods
 
@@ -66,4 +66,4 @@ Lista de tareas
 
 #### Defined in
 
-[controllers/task.controller.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/controllers/task.controller.ts#L30)
+[controllers/task.controller.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/controllers/task.controller.ts#L30)

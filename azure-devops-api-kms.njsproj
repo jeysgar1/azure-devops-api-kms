@@ -36,6 +36,8 @@
     <Content Include="docs\index.html" />
     <Content Include="docs\README.md" />
     <Content Include="docs\style.css" />
+    <Content Include="docs\tools\nodejs.md" />
+    <Content Include="docs\tools\tools.md" />
     <Content Include="docs\typedoc\.nojekyll" />
     <Content Include="docs\typedoc\classes\controllers_agile_controller.AgileController.md" />
     <Content Include="docs\typedoc\classes\controllers_epic_controller.EpicController.md" />
@@ -131,6 +133,7 @@
     <Content Include="docs\_media\azure.svg" />
     <Content Include="docs\_media\icon-title.svg" />
     <Content Include="docs\_media\icon.svg" />
+    <Content Include="docs\_media\nodedotjs-color.svg" />
     <Content Include="docs\_media\project.svg" />
     <Content Include="docs\_media\scrumetb.svg" />
     <Content Include="docs\_sidebar.md" />
@@ -146,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="docs\" />
+    <Folder Include="docs\tools\" />
     <Folder Include="docs\typedoc\" />
     <Folder Include="docs\typedoc\classes\" />
     <Folder Include="docs\typedoc\enums\" />

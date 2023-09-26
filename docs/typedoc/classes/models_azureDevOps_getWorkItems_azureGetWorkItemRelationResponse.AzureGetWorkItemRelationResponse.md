@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse](../modules/models_azureDevOps_getWorkItems_azureGetWorkItemRelationResponse.md) / AzureGetWorkItemRelationResponse
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / [models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse](../modules/models_azureDevOps_getWorkItems_azureGetWorkItemRelationResponse.md) / AzureGetWorkItemRelationResponse
 
 # Class: AzureGetWorkItemRelationResponse
 
@@ -32,7 +32,7 @@ Elemento de trabajo relacionado obtenido al consumir la API de Azure DevOps
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts#L10)
+[models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts#L10)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts#L12)
+[models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts#L12)
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts#L14)
+[models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse.ts#L14)

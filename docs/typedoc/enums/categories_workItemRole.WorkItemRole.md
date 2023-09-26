@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [categories/workItemRole](../modules/categories_workItemRole.md) / WorkItemRole
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / [categories/workItemRole](../modules/categories_workItemRole.md) / WorkItemRole
 
 # Enumeration: WorkItemRole
 
@@ -24,7 +24,7 @@ Definición que da la aplicación sobre los roles que puede tener una o varias p
 
 #### Defined in
 
-[categories/workItemRole.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L8)
+[categories/workItemRole.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/categories/workItemRole.ts#L8)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[categories/workItemRole.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L12)
+[categories/workItemRole.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/categories/workItemRole.ts#L12)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[categories/workItemRole.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L14)
+[categories/workItemRole.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/categories/workItemRole.ts#L14)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[categories/workItemRole.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L10)
+[categories/workItemRole.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/categories/workItemRole.ts#L10)
 
 ___
 
@@ -64,4 +64,4 @@ ___
 
 #### Defined in
 
-[categories/workItemRole.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemRole.ts#L16)
+[categories/workItemRole.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/categories/workItemRole.ts#L16)

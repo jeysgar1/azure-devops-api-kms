@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / models/azureDevOps/azureWorkItem
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / models/azureDevOps/azureWorkItem
 
 # Module: models/azureDevOps/azureWorkItem
 

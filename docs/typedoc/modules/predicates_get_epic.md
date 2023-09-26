@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / predicates/get.epic
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / predicates/get.epic
 
 # Module: predicates/get.epic
 
@@ -30,4 +30,4 @@ Permite transformar un elemento Azure DevOps
 
 #### Defined in
 
-[predicates/get.epic.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/predicates/get.epic.ts#L9)
+[predicates/get.epic.ts:9](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/predicates/get.epic.ts#L9)

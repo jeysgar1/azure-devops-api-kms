@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / categories/workItemStatesHomologation
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / categories/workItemStatesHomologation
 
 # Module: categories/workItemStatesHomologation
 
@@ -27,4 +27,4 @@ Definición que da la organización en Azure DevOps para un conjunto de estados 
 
 #### Defined in
 
-[categories/workItemStatesHomologation.ts:6](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/categories/workItemStatesHomologation.ts#L6)
+[categories/workItemStatesHomologation.ts:6](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/categories/workItemStatesHomologation.ts#L6)

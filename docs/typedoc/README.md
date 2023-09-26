@@ -1,6 +1,6 @@
 Azure DevOps Integration (Coding)
 
-# Azure DevOps Integration (Coding) - v0.0.1
+# Azure DevOps Integration (Coding) - v0.0.2
 
 ## Table of contents
 

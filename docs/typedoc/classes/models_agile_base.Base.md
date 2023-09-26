@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.1](../README.md) / [models/agile/base](../modules/models_agile_base.md) / Base
+[Azure DevOps Integration (Coding) - v0.0.2](../README.md) / [models/agile/base](../modules/models_agile_base.md) / Base
 
 # Class: Base
 
@@ -48,7 +48,7 @@ Permite crear una instancia
 
 #### Defined in
 
-[models/agile/base.ts:37](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L37)
+[models/agile/base.ts:37](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L37)
 
 ## Properties
 
@@ -60,7 +60,7 @@ Descripción del elemento
 
 #### Defined in
 
-[models/agile/base.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L15)
+[models/agile/base.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L15)
 
 ___
 
@@ -72,7 +72,7 @@ Identificador del elemento
 
 #### Defined in
 
-[models/agile/base.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L19)
+[models/agile/base.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L19)
 
 ___
 
@@ -84,7 +84,7 @@ Nombre del elemento
 
 #### Defined in
 
-[models/agile/base.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L23)
+[models/agile/base.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L23)
 
 ___
 
@@ -96,7 +96,7 @@ Estado del elemento
 
 #### Defined in
 
-[models/agile/base.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L27)
+[models/agile/base.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L27)
 
 ___
 
@@ -108,4 +108,4 @@ URL de acceso al elemento
 
 #### Defined in
 
-[models/agile/base.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/28b9ee1/src/models/agile/base.ts#L31)
+[models/agile/base.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/c1ba83d/src/models/agile/base.ts#L31)
