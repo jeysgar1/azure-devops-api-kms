@@ -45,7 +45,7 @@
   "bugs": {
     "url": "https://github.com/jeysgar1/azure-devops-api-kms/issues"
   },
-  "homepage": "https://github.com/jeysgar1/azure-devops-api-kms#readme",
+  "homepage": "https://jeysgar1.github.io/azure-devops-api-kms/",
   "scripts": {
     "prepare": "husky install",
     "preinstall": "npm i -g pnpm && npm i -g np && npm i -g rimraf && npm i -g jest && npm i -g typescript && npm i -g typedoc && npm i -g docsify-cli && npx only-allow pnpm",
