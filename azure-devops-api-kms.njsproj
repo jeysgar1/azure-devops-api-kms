@@ -11,7 +11,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>266968d6-9f33-4660-b093-a81071238625</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>app.ts</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -29,9 +30,10 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="app.ts" />
+    <Content Include="typedoc.json" />
     <Content Include=".eslintignore" />
     <Content Include=".eslintrc" />
+    <Content Include="jest.config.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Content Include="tsconfig-cjs.json" />

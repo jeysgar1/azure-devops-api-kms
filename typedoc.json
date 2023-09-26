@@ -1,0 +1,17 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "includeVersion": true,
+    "name": "Azure DevOps Integration (Coding)",
+    "cleanOutputDir": true,
+    "exclude": ["./node_modules", "./lib", "./docs"],
+    "entryPoints": ["./src"],
+    "entryPointStrategy": "expand",
+    "out": "./docs/typedoc",
+    "skipErrorChecking": true,
+    "readme": "none",
+    "logLevel": "Error",
+    "plugin":[
+      "typedoc-gitlab-wiki-theme",
+      "typedoc-plugin-markdown"
+    ]
+  }

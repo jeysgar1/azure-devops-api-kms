@@ -2,7 +2,11 @@
   "name": "azure-devops-api-kms",
   "version": "0.0.0",
   "description": "azure-devops-api-kms",
-  "main": "app.js",
+  "main": "./lib/cjs/index.js",
+  "module": "./lib/esm/index.js",
+  "files": [
+    "lib/"
+  ],
   "author": {
     "name": "Jeyson Andrés Garcia Rodríguez",
     "email": "jeogarciarodriguez@hotmail.com"
@@ -17,7 +21,15 @@
   },
   "homepage": "https://github.com/jeysgar1/azure-devops-api-kms#readme",
   "scripts": {
-    "clean": "tsc --build --clean",
+    "prepare": "husky install",
+    "preinstall": "npm i -g pnpm && npm i -g rimraf && npm i -g jest && npm i -g typescript && npm i -g typedoc && npm i -g docsify-cli && npx only-allow pnpm",
+    "clean": "rimraf node_modules && rimraf ./lib",
+    "lint": "eslint . --ext .ts",
+    "prettier": "prettier --config .prettierrc \"./src/**/*.ts\" --write",
+    "test": "jest",
+    "docs": "pnpm run docs:clean && typedoc --options typedoc.json",
+    "docs:clean": "rimraf ./docs/typedoc",
+    "docs:run": "docsify serve ./docs",
     "build": "rimraf ./lib && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json"
   },
   "devDependencies": {
