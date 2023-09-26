@@ -1,5 +1,5 @@
 [Cucumber]: https://img.shields.io/badge/CUCUMBER-green?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=black
-[Cucumber-url]: https://pnpm.io/es/motivation
+[Cucumber-url]: https://www.npmjs.com/package/jest-cucumber
 
 [![Cucumber][Cucumber]][Cucumber-url]
 

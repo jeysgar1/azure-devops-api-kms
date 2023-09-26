@@ -1,5 +1,5 @@
 [JEST]: https://img.shields.io/badge/JEST-red?style=for-the-badge&logo=jest&logoColor=white&labelColor=black
-[JEST-url]: https://pnpm.io/es/motivation
+[JEST-url]: https://jestjs.io/
 
 [![JEST][JEST]][JEST-url]
 

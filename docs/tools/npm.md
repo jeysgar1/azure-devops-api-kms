@@ -1,5 +1,5 @@
 [NPM]: https://img.shields.io/badge/NPM-333?style=for-the-badge&logo=npm&logoColor=black&labelColor=green
-[NPM-url]: https://nodejs.org/es
+[NPM-url]: https://www.npmjs.com/
 
 [![NPM][NPM]][NPM-url]
 

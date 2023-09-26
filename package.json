@@ -48,7 +48,7 @@
   "homepage": "https://jeysgar1.github.io/azure-devops-api-kms/",
   "scripts": {
     "prepare": "husky install",
-    "preinstall": "npm i -g pnpm && npm i -g np && npm i -g rimraf && npm i -g jest && npm i -g typescript && npm i -g typedoc && npm i -g docsify-cli && npx only-allow pnpm",
+    "preinstall": "npm i -g pnpm && npm i -g rimraf && npm i -g jest && npm i -g typescript && npm i -g typedoc && npm i -g docsify-cli && npx only-allow pnpm",
     "clean": "rimraf node_modules && rimraf ./lib",
     "lint": "eslint . --ext .ts",
     "prettier": "prettier --config .prettierrc \"./src/**/*.ts\" --write",
