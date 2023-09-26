@@ -41,6 +41,7 @@
     <Content Include="tsconfig.json" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="docs\" />
     <Folder Include="src\" />
     <Folder Include="src\categories\" />
     <Folder Include="src\config\" />
