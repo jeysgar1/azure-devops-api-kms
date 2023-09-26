@@ -11,7 +11,33 @@
     "name": "Jeyson Andrés Garcia Rodríguez",
     "email": "jeogarciarodriguez@hotmail.com"
   },
+  "keywords": [
+    "Azure",
+    "DevOps",
+    "Azure DevOps",
+    "API REST",
+    "Microsoft",
+    "SCRUM",
+    "Agile",
+    "KMS",
+    "Conocimiento",
+    "Gestor de conocimiento",
+    "Knowledge Management System",
+    "Tácito",
+    "Explicito",
+    "Epic",
+    "Feature",
+    "User Story",
+    "Task",
+    "Product Backlog Item"
+  ],
+  "license": "MIT",
   "private": false,
+  "husky": {
+    "hooks": {
+      "pre-commit": "pnpm run test && pnpm run prettier && pnpm run lint"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jeysgar1/azure-devops-api-kms.git"
