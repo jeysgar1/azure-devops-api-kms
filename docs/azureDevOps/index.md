@@ -59,4 +59,6 @@ Equipo --> Persona : Compuesto de varias
 @enduml
 ```
 
-Cada que el dueño del producto (<b>Product Owner</b>)
+Los <b>Equipos</b> existen gracias a las <b>necesidades del usuario</b> o del <b>dueño del producto</b> (<b>Product Owner</b>). Cada que el dueño del producto manifiesta una necesidad, se crea una <b>Iniciativa</b>, las iniciativas van acompañadas de un análisis, una viabilidad y una macro-estimación. Cuando financieramente y técnicamente es aprobada, es asignada a un <b>Proxy</b>, el cuál cumple la función de <b>analista de requerimientos</b>. El <b>Proxy</b> debe entablar más de una reunión de entendimiento con el <b>Product Owner</b> para asociar una <b>Característica</b> de una <b>Épica</b>. 
+
+Las <b>Épicas</b> y las <b>Características</b> no pertenecen a una iniciativa, un proyecto, un equipo o una aplicación. Mediante estos dos atributos, se puede generar un <b>roadmap</b> a un <b>producto</b>, una <b>aplicación</b> o una <b>idea</b>. Por lo que, una <b>Épica</b> y una <b>Característica</b> debe existir para una o más de una <b>Historia de usuario</b> escrita por uno o más de un <b>Proxy</b> para una o más de una <b>Iniciativa</b>.
