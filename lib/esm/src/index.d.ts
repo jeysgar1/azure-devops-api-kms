@@ -14,4 +14,5 @@ declare class AzureDevOpsIntegrations {
 }
 declare const azureDevOpsIntegrationInstance: AzureDevOpsIntegrations;
 export default azureDevOpsIntegrationInstance;
+export { iAppConfig };
 //# sourceMappingURL=index.d.ts.map

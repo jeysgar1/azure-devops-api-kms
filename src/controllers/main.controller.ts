@@ -1,13 +1,13 @@
-import { configInstance, iAppConfig } from "../config";
-import { Initiative } from "../models";
-import { InitiativeController } from "./initiative.controller";
+import { configInstance, iAppConfig } from '../config';
+import { Initiative } from '../models';
+import { InitiativeController } from './initiative.controller';
 
 /**
- * Controlador principal encargado de exponer las funcionalidades del aplicativo 
+ * Controlador principal encargado de exponer las funcionalidades del aplicativo
  *
  * @category Controllers
  *
- * {@label Clases genéricas}
+ * {@label Clases genï¿½ricas}
  */
 export class AzureDevOpsIntegrations {
     private static _instance: AzureDevOpsIntegrations =
@@ -17,7 +17,7 @@ export class AzureDevOpsIntegrations {
         return this._instance;
     }
 
-    private constructor() { }
+    private constructor() {}
 
     public async getInitiative(
         idInitiative: string,
@@ -32,8 +32,8 @@ export class AzureDevOpsIntegrations {
     }
 
     /**
-     * Permite inicializar la configuración de la aplicación
-     * @param {string} pathFile - Ruta del archivo de configuración
+     * Permite inicializar la configuraciï¿½n de la aplicaciï¿½n
+     * @param {string} pathFile - Ruta del archivo de configuraciï¿½n
      */
     public init(appConfig: iAppConfig): void {
         configInstance(appConfig);

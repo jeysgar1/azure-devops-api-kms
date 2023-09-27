@@ -40,4 +40,4 @@ class AzureDevOpsIntegrations {
 const azureDevOpsIntegrationInstance: AzureDevOpsIntegrations =
     AzureDevOpsIntegrations.getInstance();
 export default azureDevOpsIntegrationInstance;
-export {iAppConfig}
+export { iAppConfig };
