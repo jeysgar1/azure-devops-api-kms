@@ -2,8 +2,8 @@
     - [Motivación](./motivacion.md)
 - **Casos de uso** 
     - [Configurar aplicación](./usecase/configapp.md)
-- **Azure DevOps API REST**
-    - PAT
+- **Azure DevOps**
+    - [Introducción](./azureDevOps/index.md)
     - WIQL
     - WorkItem's Batch
 - **Herramientas**

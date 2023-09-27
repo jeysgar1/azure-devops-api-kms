@@ -9,61 +9,47 @@
     <!-- Theme: Simple Dark -->
     <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
     <link rel="stylesheet" href="./style.css" />
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
-    <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
 </head>
 
 <body>
     <div data-app id="main">Por favor espere...</div>
 
-  <script>
+    <script>
+        // Docsify Configuration
+        window.$docsify = {
+            plantuml: {
+              skin: 'default',
+            },
+            el: '#main',
+            name: 'Azure DevOps API KMS',
+            logo: './_media/icon.svg',
+            mergeNavbar: true,
+            search: {
+                maxAge: 86400000, // Expiration time, the default one day
+                paths: [], // or 'auto'
+                placeholder: 'Buscar por...',
+                noData: 'No se encontrï¿½ ningï¿½n resultado',
+                depth: 2,
+                hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+            },
+            loadSidebar: true,
+            subMaxLevel: 4,
+            sidebarDisplayLevel: 1, // set sidebar display level
+          }
+    </script>
 
-      let num = 0;
-mermaid.initialize({ startOnLoad: false });
-
-    // Docsify Configuration
-    window.$docsify = {
-        el: '#main',
-      name:'Azure DevOps API KMS',
-      logo: './_media/icon.svg',
-      mergeNavbar: true,
-      search: {
-        maxAge: 86400000, // Expiration time, the default one day
-        paths: [], // or 'auto'
-        placeholder: 'Buscar por...',
-        noData: 'No se encontró ningún resultado',
-        depth: 2,
-        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-      },
-      loadSidebar: true,
-      subMaxLevel: 4,
-      sidebarDisplayLevel: 1, // set sidebar display level
-      markdown: {
-    renderer: {
-      code(code, lang) {
-        if (lang === 'mermaid') {
-          return /* html */ `
-            <div class="mermaid">${mermaid.render(
-              'mermaid-svg-' + num++,
-              code
-            )}</div>
-          `;
-        }
-        return this.origin.code.apply(this, arguments);
-      },
-    },
-  },
-    };
-  </script>
-
-  <!-- Required -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-  <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
-  <!-- Recommended -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <!-- Required -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+    <!-- Recommended -->
+    <!-- 1. Import mermaid.js, BEFORE the window.$docsify initialisation -->
+<script src="//cdn.jsdelivr.net/npm/mermaid@9.4.3/dist/mermaid.min.js"></script>
+<script src="//unpkg.com/docsify-plantuml/dist/docsify-plantuml.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 </body>
 
 </html>
