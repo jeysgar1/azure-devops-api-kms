@@ -1,10 +1,13 @@
 - **Introducción**
-    - [Motivación](./motivacion.md)
+    - [Motivación](./app/motivacion.md)
 - **Casos de uso** 
     - [Configurar aplicación](./usecase/configapp.md)
 - **Azure DevOps**
     - [Introducción](./azureDevOps/index.md)
     - [PAT](./azureDevOps/pat.md)
+    - [Work Item Query Language (WIQL)](./azureDevOps/wiql.md)
+- **Knowledge Management System**
+    - [Introducción](./kms/index.md)
 - **Herramientas**
     - [Axios](./tools/axios.md)
     - [Cucumber](./tools/cucumber.md)
