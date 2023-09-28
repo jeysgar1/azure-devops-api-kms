@@ -4,6 +4,7 @@
     - [Configurar aplicación](./usecase/configapp.md)
 - **Azure DevOps**
     - [Introducción](./azureDevOps/index.md)
+    - [PAT](./azureDevOps/pat.md)
 - **Herramientas**
     - [Axios](./tools/axios.md)
     - [Cucumber](./tools/cucumber.md)
