@@ -5,8 +5,8 @@
 - **Azure DevOps**
     - [Introducción](./azureDevOps/index.md)
     - [PAT](./azureDevOps/pat.md)
-    - [Work Item Query Language (WIQL)](./azureDevOps/wiql.md)
-- **Knowledge Management System**
+    - [WIQL](./azureDevOps/wiql.md)
+- **KMS**
     - [Introducción](./kms/index.md)
 - **Herramientas**
     - [Axios](./tools/axios.md)
