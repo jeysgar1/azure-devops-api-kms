@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [models/agile/team](../modules/models_agile_team.md) / Team
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [models/agile/team](../modules/models_agile_team.md) / Team
 
 # Class: Team
 
@@ -36,7 +36,7 @@ Crea un equipo de trabajo
 
 #### Defined in
 
-[models/agile/team.ts:37](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/team.ts#L37)
+[models/agile/team.ts:37](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/team.ts#L37)
 
 ## Properties
 
@@ -48,7 +48,7 @@ Arquitecto asignado
 
 #### Defined in
 
-[models/agile/team.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/team.ts#L15)
+[models/agile/team.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/team.ts#L15)
 
 ___
 
@@ -60,7 +60,7 @@ Propietario del producto
 
 #### Defined in
 
-[models/agile/team.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/team.ts#L19)
+[models/agile/team.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/team.ts#L19)
 
 ___
 
@@ -72,7 +72,7 @@ Analista funcional
 
 #### Defined in
 
-[models/agile/team.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/team.ts#L23)
+[models/agile/team.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/team.ts#L23)
 
 ___
 
@@ -84,7 +84,7 @@ Experto en SCRUM
 
 #### Defined in
 
-[models/agile/team.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/team.ts#L31)
+[models/agile/team.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/team.ts#L31)
 
 ___
 
@@ -96,4 +96,4 @@ Líder técnico
 
 #### Defined in
 
-[models/agile/team.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/team.ts#L27)
+[models/agile/team.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/team.ts#L27)

@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [controllers/epic.controller](../modules/controllers_epic_controller.md) / EpicController
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [controllers/epic.controller](../modules/controllers_epic_controller.md) / EpicController
 
 # Class: EpicController
 
@@ -45,7 +45,7 @@ Lista de epicas
 
 #### Defined in
 
-[controllers/epic.controller.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/epic.controller.ts#L20)
+[controllers/epic.controller.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/epic.controller.ts#L20)
 
 ___
 
@@ -69,4 +69,4 @@ Archivos adjuntos y wiki
 
 #### Defined in
 
-[controllers/epic.controller.ts:47](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/epic.controller.ts#L47)
+[controllers/epic.controller.ts:47](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/epic.controller.ts#L47)

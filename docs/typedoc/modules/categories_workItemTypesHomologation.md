@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / categories/workItemTypesHomologation
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / categories/workItemTypesHomologation
 
 # Module: categories/workItemTypesHomologation
 
@@ -27,4 +27,4 @@ Definición que da la aplicación sobre los tipos de elementos de trabajo
 
 #### Defined in
 
-[categories/workItemTypesHomologation.ts:6](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemTypesHomologation.ts#L6)
+[categories/workItemTypesHomologation.ts:6](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemTypesHomologation.ts#L6)

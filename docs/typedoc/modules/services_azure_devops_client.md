@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / services/azure.devops.client
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / services/azure.devops.client
 
 # Module: services/azure.devops.client
 

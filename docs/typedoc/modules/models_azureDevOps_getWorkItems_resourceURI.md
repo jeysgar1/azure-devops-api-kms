@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / models/azureDevOps/getWorkItems/resourceURI
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / models/azureDevOps/getWorkItems/resourceURI
 
 # Module: models/azureDevOps/getWorkItems/resourceURI
 
@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[models/azureDevOps/getWorkItems/resourceURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/getWorkItems/resourceURI.ts#L1)
+[models/azureDevOps/getWorkItems/resourceURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/getWorkItems/resourceURI.ts#L1)

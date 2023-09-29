@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [categories/workItemLinkType](../modules/categories_workItemLinkType.md) / WorkItemLinkType
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [categories/workItemLinkType](../modules/categories_workItemLinkType.md) / WorkItemLinkType
 
 # Enumeration: WorkItemLinkType
 
@@ -25,7 +25,7 @@ Definición que da la aplicación sobre los tipos de relaciones entre un element
 
 #### Defined in
 
-[categories/workItemLinkType.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemLinkType.ts#L8)
+[categories/workItemLinkType.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemLinkType.ts#L8)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemLinkType.ts#L10)
+[categories/workItemLinkType.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemLinkType.ts#L10)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemLinkType.ts#L12)
+[categories/workItemLinkType.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemLinkType.ts#L12)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemLinkType.ts#L14)
+[categories/workItemLinkType.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemLinkType.ts#L14)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemLinkType.ts#L16)
+[categories/workItemLinkType.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemLinkType.ts#L16)
 
 ___
 
@@ -75,4 +75,4 @@ ___
 
 #### Defined in
 
-[categories/workItemLinkType.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemLinkType.ts#L18)
+[categories/workItemLinkType.ts:18](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemLinkType.ts#L18)

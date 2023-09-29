@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [services/azure.devops.client](../modules/services_azure_devops_client.md) / AzureDevOpsClient
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [services/azure.devops.client](../modules/services_azure_devops_client.md) / AzureDevOpsClient
 
 # Class: AzureDevOpsClient
 
@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[services/azure.devops.client.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/services/azure.devops.client.ts#L19)
+[services/azure.devops.client.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/services/azure.devops.client.ts#L19)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[services/azure.devops.client.ts:50](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/services/azure.devops.client.ts#L50)
+[services/azure.devops.client.ts:50](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/services/azure.devops.client.ts#L50)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[services/azure.devops.client.ts:58](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/services/azure.devops.client.ts#L58)
+[services/azure.devops.client.ts:58](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/services/azure.devops.client.ts#L58)
 
 ___
 
@@ -89,4 +89,4 @@ ___
 
 #### Defined in
 
-[services/azure.devops.client.ts:68](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/services/azure.devops.client.ts#L68)
+[services/azure.devops.client.ts:68](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/services/azure.devops.client.ts#L68)

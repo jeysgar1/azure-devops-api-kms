@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / models/azureDevOps/getProjects/azureGetProjectsItemResponse
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / models/azureDevOps/getProjects/azureGetProjectsItemResponse
 
 # Module: models/azureDevOps/getProjects/azureGetProjectsItemResponse
 

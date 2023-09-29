@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [controllers/main.controller](../modules/controllers_main_controller.md) / AzureDevOpsIntegrations
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [controllers/main.controller](../modules/controllers_main_controller.md) / AzureDevOpsIntegrations
 
 # Class: AzureDevOpsIntegrations
 
@@ -31,7 +31,7 @@ Controlador principal encargado de exponer las funcionalidades del aplicativo
 
 #### Defined in
 
-[controllers/main.controller.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/main.controller.ts#L20)
+[controllers/main.controller.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/main.controller.ts#L20)
 
 ## Properties
 
@@ -41,7 +41,7 @@ Controlador principal encargado de exponer las funcionalidades del aplicativo
 
 #### Defined in
 
-[controllers/main.controller.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/main.controller.ts#L13)
+[controllers/main.controller.ts:13](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/main.controller.ts#L13)
 
 ## Methods
 
@@ -61,7 +61,7 @@ Controlador principal encargado de exponer las funcionalidades del aplicativo
 
 #### Defined in
 
-[controllers/main.controller.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/main.controller.ts#L22)
+[controllers/main.controller.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/main.controller.ts#L22)
 
 ___
 
@@ -83,7 +83,7 @@ Permite inicializar la configuraci�n de la aplicaci�n
 
 #### Defined in
 
-[controllers/main.controller.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/main.controller.ts#L38)
+[controllers/main.controller.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/main.controller.ts#L38)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[controllers/main.controller.ts:42](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/main.controller.ts#L42)
+[controllers/main.controller.ts:42](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/main.controller.ts#L42)
 
 ___
 
@@ -117,4 +117,4 @@ ___
 
 #### Defined in
 
-[controllers/main.controller.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/main.controller.ts#L16)
+[controllers/main.controller.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/main.controller.ts#L16)

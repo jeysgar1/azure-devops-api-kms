@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [controllers/feature.controller](../modules/controllers_feature_controller.md) / FeatureController
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [controllers/feature.controller](../modules/controllers_feature_controller.md) / FeatureController
 
 # Class: FeatureController
 
@@ -30,7 +30,7 @@ Crea una instancia del controlador
 
 #### Defined in
 
-[controllers/feature.controller.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/feature.controller.ts#L21)
+[controllers/feature.controller.ts:21](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/feature.controller.ts#L21)
 
 ## Properties
 
@@ -42,7 +42,7 @@ Instancia del controlador encargado de integrarse con Azure DevOps
 
 #### Defined in
 
-[controllers/feature.controller.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/feature.controller.ts#L16)
+[controllers/feature.controller.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/feature.controller.ts#L16)
 
 ## Methods
 
@@ -66,4 +66,4 @@ Lista de características
 
 #### Defined in
 
-[controllers/feature.controller.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/feature.controller.ts#L30)
+[controllers/feature.controller.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/feature.controller.ts#L30)

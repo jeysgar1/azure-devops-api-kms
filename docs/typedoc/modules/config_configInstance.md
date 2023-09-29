@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / config/configInstance
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / config/configInstance
 
 # Module: config/configInstance
 
@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[config/configInstance.ts:97](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/config/configInstance.ts#L97)
+[config/configInstance.ts:97](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/config/configInstance.ts#L97)

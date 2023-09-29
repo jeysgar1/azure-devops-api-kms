@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / models/azureDevOps/baseURI
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / models/azureDevOps/baseURI
 
 # Module: models/azureDevOps/baseURI
 
@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[models/azureDevOps/baseURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/baseURI.ts#L1)
+[models/azureDevOps/baseURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/baseURI.ts#L1)

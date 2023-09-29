@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / models/azureDevOps/wiql/query
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / models/azureDevOps/wiql/query
 
 # Module: models/azureDevOps/wiql/query
 
@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[models/azureDevOps/wiql/query.ts:3](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/wiql/query.ts#L3)
+[models/azureDevOps/wiql/query.ts:3](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/wiql/query.ts#L3)

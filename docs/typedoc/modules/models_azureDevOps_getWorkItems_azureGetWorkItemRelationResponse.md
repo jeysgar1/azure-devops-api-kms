@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse
 
 # Module: models/azureDevOps/getWorkItems/azureGetWorkItemRelationResponse
 

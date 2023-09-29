@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [models/azureDevOps/azureWorkItem](../modules/models_azureDevOps_azureWorkItem.md) / AzureWorkItem
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [models/azureDevOps/azureWorkItem](../modules/models_azureDevOps_azureWorkItem.md) / AzureWorkItem
 
 # Class: AzureWorkItem
 
@@ -57,7 +57,7 @@ Crea una instancia del elemento de trabajo transformado
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:78](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L78)
+[models/azureDevOps/azureWorkItem.ts:78](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L78)
 
 ## Properties
 
@@ -67,7 +67,7 @@ Crea una instancia del elemento de trabajo transformado
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L22)
+[models/azureDevOps/azureWorkItem.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L22)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L24)
+[models/azureDevOps/azureWorkItem.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L24)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L26)
+[models/azureDevOps/azureWorkItem.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L26)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:28](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L28)
+[models/azureDevOps/azureWorkItem.ts:28](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L28)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L30)
+[models/azureDevOps/azureWorkItem.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L30)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:32](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L32)
+[models/azureDevOps/azureWorkItem.ts:32](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L32)
 
 ___
 
@@ -127,7 +127,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:34](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L34)
+[models/azureDevOps/azureWorkItem.ts:34](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L34)
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L38)
+[models/azureDevOps/azureWorkItem.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L38)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:36](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L36)
+[models/azureDevOps/azureWorkItem.ts:36](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L36)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L40)
+[models/azureDevOps/azureWorkItem.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L40)
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:42](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L42)
+[models/azureDevOps/azureWorkItem.ts:42](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L42)
 
 ___
 
@@ -177,7 +177,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:44](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L44)
+[models/azureDevOps/azureWorkItem.ts:44](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L44)
 
 ___
 
@@ -187,7 +187,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:48](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L48)
+[models/azureDevOps/azureWorkItem.ts:48](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L48)
 
 ___
 
@@ -197,7 +197,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:46](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L46)
+[models/azureDevOps/azureWorkItem.ts:46](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L46)
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:50](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L50)
+[models/azureDevOps/azureWorkItem.ts:50](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L50)
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:54](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L54)
+[models/azureDevOps/azureWorkItem.ts:54](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L54)
 
 ___
 
@@ -227,7 +227,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:52](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L52)
+[models/azureDevOps/azureWorkItem.ts:52](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L52)
 
 ___
 
@@ -237,7 +237,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:56](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L56)
+[models/azureDevOps/azureWorkItem.ts:56](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L56)
 
 ___
 
@@ -247,7 +247,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:58](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L58)
+[models/azureDevOps/azureWorkItem.ts:58](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L58)
 
 ___
 
@@ -257,7 +257,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:60](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L60)
+[models/azureDevOps/azureWorkItem.ts:60](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L60)
 
 ___
 
@@ -267,7 +267,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:62](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L62)
+[models/azureDevOps/azureWorkItem.ts:62](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L62)
 
 ___
 
@@ -277,7 +277,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:64](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L64)
+[models/azureDevOps/azureWorkItem.ts:64](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L64)
 
 ___
 
@@ -287,7 +287,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:66](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L66)
+[models/azureDevOps/azureWorkItem.ts:66](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L66)
 
 ___
 
@@ -297,7 +297,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:68](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L68)
+[models/azureDevOps/azureWorkItem.ts:68](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L68)
 
 ___
 
@@ -307,7 +307,7 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:70](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L70)
+[models/azureDevOps/azureWorkItem.ts:70](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L70)
 
 ___
 
@@ -317,4 +317,4 @@ ___
 
 #### Defined in
 
-[models/azureDevOps/azureWorkItem.ts:72](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/azureWorkItem.ts#L72)
+[models/azureDevOps/azureWorkItem.ts:72](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/azureWorkItem.ts#L72)

@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / config/iAppConfig
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / config/iAppConfig
 
 # Module: config/iAppConfig
 

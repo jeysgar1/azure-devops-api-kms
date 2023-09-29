@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / models/azureDevOps/wiql
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / models/azureDevOps/wiql
 
 # Module: models/azureDevOps/wiql
 

@@ -1,6 +1,6 @@
 Azure DevOps Integration (Coding)
 
-# Azure DevOps Integration (Coding) - v0.0.3
+# Azure DevOps Integration (Coding) - v0.0.4
 
 ## Table of contents
 
@@ -62,5 +62,6 @@ Azure DevOps Integration (Coding)
 - [predicates/get.userstory](modules/predicates_get_userstory.md)
 - [services](modules/services.md)
 - [services/azure.devops.client](modules/services_azure_devops_client.md)
+- [test/app.config](modules/test_app_config.md)
 - [test/app.spec](modules/test_app_spec.md)
 - [test/iTestConfig](modules/test_iTestConfig.md)

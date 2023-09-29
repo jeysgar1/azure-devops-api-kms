@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [controllers/project.controller](../modules/controllers_project_controller.md) / ProjectController
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [controllers/project.controller](../modules/controllers_project_controller.md) / ProjectController
 
 # Class: ProjectController
 
@@ -30,7 +30,7 @@ Crea una instancia del controlador
 
 #### Defined in
 
-[controllers/project.controller.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/project.controller.ts#L20)
+[controllers/project.controller.ts:20](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/project.controller.ts#L20)
 
 ## Properties
 
@@ -42,7 +42,7 @@ Instancia asociada a la gestión de acceso en Azure DevOps
 
 #### Defined in
 
-[controllers/project.controller.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/project.controller.ts#L15)
+[controllers/project.controller.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/project.controller.ts#L15)
 
 ## Methods
 
@@ -60,4 +60,4 @@ Lista de proyectos
 
 #### Defined in
 
-[controllers/project.controller.ts:28](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/controllers/project.controller.ts#L28)
+[controllers/project.controller.ts:28](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/controllers/project.controller.ts#L28)

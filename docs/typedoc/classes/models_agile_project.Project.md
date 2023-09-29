@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [models/agile/project](../modules/models_agile_project.md) / Project
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [models/agile/project](../modules/models_agile_project.md) / Project
 
 # Class: Project
 
@@ -34,7 +34,7 @@ Crea un proyecto
 
 #### Defined in
 
-[models/agile/project.ts:44](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/project.ts#L44)
+[models/agile/project.ts:44](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/project.ts#L44)
 
 ## Properties
 
@@ -50,7 +50,7 @@ Descripción del proyecto
 
 #### Defined in
 
-[models/agile/project.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/project.ts#L10)
+[models/agile/project.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/project.ts#L10)
 
 ___
 
@@ -66,7 +66,7 @@ Identificador del proyecto
 
 #### Defined in
 
-[models/agile/project.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/project.ts#L17)
+[models/agile/project.ts:17](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/project.ts#L17)
 
 ___
 
@@ -82,7 +82,7 @@ Nombre del proyecto
 
 #### Defined in
 
-[models/agile/project.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/project.ts#L24)
+[models/agile/project.ts:24](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/project.ts#L24)
 
 ___
 
@@ -98,7 +98,7 @@ Estado del proyecto
 
 #### Defined in
 
-[models/agile/project.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/project.ts#L31)
+[models/agile/project.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/project.ts#L31)
 
 ___
 
@@ -114,4 +114,4 @@ URL de acceso en Azure DevOps de un proyecto creado previamente
 
 #### Defined in
 
-[models/agile/project.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/project.ts#L38)
+[models/agile/project.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/project.ts#L38)

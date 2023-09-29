@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / models/agile/person
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / models/agile/person
 
 # Module: models/agile/person
 

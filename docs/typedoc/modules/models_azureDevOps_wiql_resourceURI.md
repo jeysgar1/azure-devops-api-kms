@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / models/azureDevOps/wiql/resourceURI
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / models/azureDevOps/wiql/resourceURI
 
 # Module: models/azureDevOps/wiql/resourceURI
 
@@ -20,4 +20,4 @@
 
 #### Defined in
 
-[models/azureDevOps/wiql/resourceURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/azureDevOps/wiql/resourceURI.ts#L1)
+[models/azureDevOps/wiql/resourceURI.ts:1](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/azureDevOps/wiql/resourceURI.ts#L1)

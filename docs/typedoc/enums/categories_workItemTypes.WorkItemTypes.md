@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [categories/workItemTypes](../modules/categories_workItemTypes.md) / WorkItemTypes
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [categories/workItemTypes](../modules/categories_workItemTypes.md) / WorkItemTypes
 
 # Enumeration: WorkItemTypes
 
@@ -24,7 +24,7 @@ Definición que da la aplicación sobre los tipos de elementos de trabajo
 
 #### Defined in
 
-[categories/workItemTypes.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemTypes.ts#L8)
+[categories/workItemTypes.ts:8](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemTypes.ts#L8)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[categories/workItemTypes.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemTypes.ts#L10)
+[categories/workItemTypes.ts:10](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemTypes.ts#L10)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[categories/workItemTypes.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemTypes.ts#L12)
+[categories/workItemTypes.ts:12](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemTypes.ts#L12)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[categories/workItemTypes.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemTypes.ts#L14)
+[categories/workItemTypes.ts:14](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemTypes.ts#L14)
 
 ___
 
@@ -64,4 +64,4 @@ ___
 
 #### Defined in
 
-[categories/workItemTypes.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/categories/workItemTypes.ts#L16)
+[categories/workItemTypes.ts:16](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/categories/workItemTypes.ts#L16)

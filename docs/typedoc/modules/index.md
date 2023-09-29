@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / index
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / index
 
 # Module: index
 
@@ -26,4 +26,4 @@ Re-exports [iAppConfig](../interfaces/config_iAppConfig.iAppConfig.md)
 
 #### Defined in
 
-[index.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/index.ts#L40)
+[index.ts:40](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/index.ts#L40)

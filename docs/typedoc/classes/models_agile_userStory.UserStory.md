@@ -1,4 +1,4 @@
-[Azure DevOps Integration (Coding) - v0.0.3](../README.md) / [models/agile/userStory](../modules/models_agile_userStory.md) / UserStory
+[Azure DevOps Integration (Coding) - v0.0.4](../README.md) / [models/agile/userStory](../modules/models_agile_userStory.md) / UserStory
 
 # Class: UserStory
 
@@ -60,7 +60,7 @@ Crea una historia de usuario
 
 #### Defined in
 
-[models/agile/userStory.ts:44](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/userStory.ts#L44)
+[models/agile/userStory.ts:44](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/userStory.ts#L44)
 
 ## Properties
 
@@ -76,7 +76,7 @@ Descripción del elemento
 
 #### Defined in
 
-[models/agile/base.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/base.ts#L15)
+[models/agile/base.ts:15](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/base.ts#L15)
 
 ___
 
@@ -88,7 +88,7 @@ Característica asociada a una historia de usuario
 
 #### Defined in
 
-[models/agile/userStory.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/userStory.ts#L22)
+[models/agile/userStory.ts:22](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/userStory.ts#L22)
 
 ___
 
@@ -104,7 +104,7 @@ Identificador del elemento
 
 #### Defined in
 
-[models/agile/base.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/base.ts#L19)
+[models/agile/base.ts:19](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/base.ts#L19)
 
 ___
 
@@ -120,7 +120,7 @@ Nombre del elemento
 
 #### Defined in
 
-[models/agile/base.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/base.ts#L23)
+[models/agile/base.ts:23](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/base.ts#L23)
 
 ___
 
@@ -132,7 +132,7 @@ Proyecto asignado a la historia de usuario
 
 #### Defined in
 
-[models/agile/userStory.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/userStory.ts#L26)
+[models/agile/userStory.ts:26](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/userStory.ts#L26)
 
 ___
 
@@ -144,7 +144,7 @@ Refinamiento de la historia de usuario
 
 #### Defined in
 
-[models/agile/userStory.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/userStory.ts#L30)
+[models/agile/userStory.ts:30](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/userStory.ts#L30)
 
 ___
 
@@ -160,7 +160,7 @@ Estado del elemento
 
 #### Defined in
 
-[models/agile/base.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/base.ts#L27)
+[models/agile/base.ts:27](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/base.ts#L27)
 
 ___
 
@@ -172,7 +172,7 @@ Tareas de una historia de usuario
 
 #### Defined in
 
-[models/agile/userStory.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/userStory.ts#L38)
+[models/agile/userStory.ts:38](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/userStory.ts#L38)
 
 ___
 
@@ -184,7 +184,7 @@ Equipo de trabajo asignado a la historia de usuario
 
 #### Defined in
 
-[models/agile/userStory.ts:34](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/userStory.ts#L34)
+[models/agile/userStory.ts:34](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/userStory.ts#L34)
 
 ___
 
@@ -200,7 +200,7 @@ URL de acceso al elemento
 
 #### Defined in
 
-[models/agile/base.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/base.ts#L31)
+[models/agile/base.ts:31](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/base.ts#L31)
 
 ## Methods
 
@@ -222,7 +222,7 @@ Permite asignar la épica y la caracteristica asociada a una historia de usuario
 
 #### Defined in
 
-[models/agile/userStory.ts:63](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/userStory.ts#L63)
+[models/agile/userStory.ts:63](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/userStory.ts#L63)
 
 ___
 
@@ -244,4 +244,4 @@ Permite filtrar las características de una épica
 
 #### Defined in
 
-[models/agile/userStory.ts:75](https://github.com/jeysgar1/azure-devops-api-kms/blob/71b51ad/src/models/agile/userStory.ts#L75)
+[models/agile/userStory.ts:75](https://github.com/jeysgar1/azure-devops-api-kms/blob/65a7ab4/src/models/agile/userStory.ts#L75)
