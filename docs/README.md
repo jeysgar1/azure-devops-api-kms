@@ -1,15 +1,7 @@
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/jeysgar1/azure-devops-api-kms">
-    <img src="./_media/icon.svg" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Azure DevOps API KMS</h3>
 
@@ -18,14 +10,11 @@
     <br />
     <a href="https://jeysgar1.github.io/azure-devops-api-kms/#/"><strong>Visita nuestro sitio web »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/roshanlam/ReadMeTemplate/">View Demo</a>
     ·
-    <a href="https://github.com/roshanlam/ReadMeTemplate/issues">Report Bug</a>
+    <a href="https://github.com/jeysgar1/azure-devops-api-kms/blob/master/.github/ISSUE_TEMPLATE/bug_report.md">Reporte un error</a>
     ·
-    <a href="https://github.com/roshanlam/ReadMeTemplate/issues">Request Feature</a>
+    <a href="https://github.com/jeysgar1/azure-devops-api-kms/blob/master/.github/ISSUE_TEMPLATE/feature_request.md">Solicite una nueva funcionalidad</a>
     ·
-    <a href="https://github.com/roshanlam/ReadMeTemplate/pulls">Send a Pull Request</a>
   </p>
 </p>
 
@@ -263,18 +252,3 @@ Github: [https://github.com/jeysgar1/azure-devops-api-kms](https://github.com/je
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * blah blah blah....
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/roshanlam/ReadMeTemplate?style=for-the-badge
-[forks-url]: https://github.com/roshanlam/ReadMeTemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/roshanlam/ReadMeTemplate?style=for-the-badge
-[stars-url]: https://github.com/roshanlam/ReadMeTemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/roshanlam/ReadMeTemplate?style=for-the-badge
-[issues-url]: https://github.com/roshanlam/ReadMeTemplate/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/roshan
