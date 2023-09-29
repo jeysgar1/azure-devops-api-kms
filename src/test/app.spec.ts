@@ -2,7 +2,7 @@ import { defineFeature, loadFeature } from 'jest-cucumber';
 import path from 'path';
 import azureDevOpsIntegrationInstance from '../index';
 import { Initiative } from '../models';
-import iTestConfig from './iTestConfig';
+import appConfigTest from './app.config.spec';
 
 const feature = loadFeature(path.join(__dirname, './app.feature'));
 
@@ -11,7 +11,7 @@ defineFeature(feature, (test) => {
 
     beforeEach(() => {
         initiative = undefined;
-        azureDevOpsIntegrationInstance.init(iTestConfig);
+        azureDevOpsIntegrationInstance.init(appConfigTest);
     });
 
     test('Obtener una iniciativa', ({ given, when, then }) => {

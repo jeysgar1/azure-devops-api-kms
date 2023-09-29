@@ -2,10 +2,10 @@
   "name": "azure-devops-api-kms",
   "version": "0.0.5",
   "description": "Obtiene el conocimiento tácito generado durante la documentación de los elementos de trabajo en Azure DevOps dentro de una organización y lo transforma en conocimiento explícito",
-  "main": "./lib/cjs/index.js",
-  "module": "./lib/esm/index.js",
+  "main": "./build/cjs/index.js",
+  "module": "./build/esm/index.js",
   "files": [
-    "lib/"
+    "build/"
   ],
   "author": {
     "name": "Jeyson Andrés Garcia Rodríguez",
@@ -49,12 +49,13 @@
   "scripts": {
     "prepare": "husky install",
     "preinstall": "npm i -g pnpm && npm i -g rimraf && npm i -g jest && npm i -g typescript && npm i -g typedoc && npm i -g docsify-cli && npx only-allow pnpm",
-    "clean": "rimraf node_modules && rimraf ./lib",
+    "minify": "jsmin -o name.min.js name.js",
+    "clean": "rimraf node_modules && rimraf ./build",
     "lint": "eslint . --ext .ts",
     "prettier": "prettier --config .prettierrc \"./src/**/*.ts\" --write",
     "test": "jest",
     "docs:run": "docsify serve ./docs",
-    "build": "rimraf ./lib && rimraf ./docs/typedoc && pnpm run lint && pnpm run prettier && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && jest && typedoc --options typedoc.json",
+    "build": "rimraf ./build && rimraf ./docs/typedoc && pnpm run lint && pnpm run prettier && webpack -p tsconfig.json && jest && typedoc --options typedoc.json",
     "release:patch": "pnpm run build && npm version patch --force && npm publish",
     "release:major": "pnpm run build && npm version major --force && npm publish",
     "release:minor": "pnpm run build && npm version minor --force && npm publish"
@@ -76,11 +77,14 @@
     "prettier": "^3.0.3",
     "rimraf": "^5.0.1",
     "ts-jest": "^29.1.1",
+    "ts-loader": "^9.4.4",
     "ts-node": "^10.9.1",
     "typedoc": "^0.25.1",
     "typedoc-gitlab-wiki-theme": "^1.1.1",
     "typedoc-plugin-markdown": "^3.16.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "axios": "^1.5.0"

@@ -1,1 +1,0 @@
-{"version":3,"file":"azureGetWorkItemPersonResponse.d.ts","sourceRoot":"","sources":["../../../../../../src/models/azureDevOps/getWorkItems/azureGetWorkItemPersonResponse.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAEH,qBAAa,8BAA8B;IAEvC,WAAW,EAAE,MAAM,GAAG,SAAS,CAAC;IAEhC,EAAE,EAAE,MAAM,GAAG,SAAS,CAAC;IAEvB,UAAU,EAAE,MAAM,GAAG,SAAS,CAAC;CAClC"}
