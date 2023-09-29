@@ -144,15 +144,11 @@ Problamemente podrás visualizar que la instalación lanza un conjunto de instal
 </div>
 
 
-<h2>Casos de uso</h2>
-
-1. <a href="">Consultar por un identificador en común</a>
-
 <div>
 <h2>🚧 Roadmap</h2>
 
-<h3>1. Búsqueda por un identificador en común</h3>
-<p>Se debe implementar una consulta sobre todos los elementos de trabajo de todos los proyectos de la organización que compartan un mismo campo personalizado con el mismo valor</p>
+<h3>1. Búsqueda por un identificador en común ✔️</h3>
+<p>Se debe implementar una consulta sobre todos los elementos de trabajo de todos los proyectos de la organización que compartan un mismo campo personalizado con el mismo valor (<a href="https://jeysgar1.github.io/azure-devops-api-kms/#/./usecase/getbyid">Ver más</a>)</p>
 
 <h4>2. Búsqueda por palabras claves</h4>
 <p>Se debe implementar una consulta sobre todos los elementos de trabajo de todos los proyectos de la organización que compartan por lo menos un de un conjunto de palabras claves en la descripción del elemento del trabajo</p> 
