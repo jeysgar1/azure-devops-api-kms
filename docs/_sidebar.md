@@ -1,13 +1,13 @@
 - **Introducción**
-    - [Motivación](./app/motivacion.md)
+    - [Descripción](./app/description.md)
+    - [Problema a solucionar](./app/problem.md)
+    - [Azure DevOps KMS](./app/azurekms.md)
 - **Casos de uso** 
     - [Configurar aplicación](./usecase/configapp.md)
-- **Azure DevOps**
-    - [Introducción](./azureDevOps/index.md)
-    - [PAT](./azureDevOps/pat.md)
-    - [WIQL](./azureDevOps/wiql.md)
-- **KMS**
-    - [Introducción](./kms/index.md)
+    - [Consultar iniciativa](./usecase/configapp.md)
+- **Conceptos**
+    - [KMS](./concepts/kms.md)
+    - [Azure DevOps](./concepts/azure.md)
 - **Herramientas**
     - [Axios](./tools/axios.md)
     - [Cucumber](./tools/cucumber.md)
