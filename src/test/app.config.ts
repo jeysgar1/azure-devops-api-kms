@@ -1,4 +1,6 @@
-const iTestConfig = {
+import { iAppConfig } from '../config/iAppConfig';
+
+const appConfigTest: iAppConfig = {
     fields: {
         idInitiative: '[Custom.NumeroIniciativa]',
         team: {
@@ -17,7 +19,7 @@ const iTestConfig = {
         Done: ['Completado', 'Done'],
         Cancelled: ['Cancelled', 'Cancelado'],
     },
-    token: 'wdmbrjxwa4kmaywc5ujcvlnqgqhjbrkwomfogbiy7j72rrz27hwq',
+    token: '',
     types: {
         Epic: 'Epic',
         Feature: 'Feature',
@@ -25,4 +27,5 @@ const iTestConfig = {
         UserStory: 'Product Backlog Item',
     },
 };
-export default iTestConfig;
+
+export default appConfigTest;

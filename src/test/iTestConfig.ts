@@ -19,7 +19,7 @@ const iTestConfig: iAppConfig = {
         Done: ['Completado', 'Done'],
         Cancelled: ['Cancelled', 'Cancelado'],
     },
-    token: 'tnri3v5dseie5fvfgj5llioagjtapbrbfmbp225ulmpmeahzqjsq',
+    token: 'xihoks2of3uuikzzpzduns3h65huiqvialur7mf5pjhro6lkl26a',
     types: {
         Epic: 'Epic',
         Feature: 'Feature',
