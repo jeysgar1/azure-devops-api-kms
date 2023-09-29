@@ -2,6 +2,10 @@
 
 La propuesta que realiza esta librería o framework es la siguiente : 
 
+1. La <b>Organización</b> se comportará igual a como <b>Azure DevOps</b> la define y como a hoy su compañía la utiliza. 
+
+2. Los <b>Proyectos</b> se comportarán igual a como <b>Azure DevOps</b> los define y como a hoy su compañía los utiliza. 
+
 ```plantuml
 @startuml
 class "Organización" {
@@ -55,9 +59,7 @@ Equipo --> Persona : Compuesto de varias
 @enduml
 ```
 
-1. La <b>Organización</b> se comportará igual a como <b>Azure DevOps</b> la define y como a hoy su compañía la utiliza. 
 
-2. Los <b>Proyectos</b> se comportarán igual a como <b>Azure DevOps</b> los define y como a hoy su compañía los utiliza. 
 
 3. Las <b>necesidades de los usuarios<> o de los <b>Product Owner</b> representan directamente una <b>Iniciativa</b>. Las <b>Iniciativas</b> serán representadas por un identificador. Por lo pronto, cualquier análisis de viabilidad financiero y técnico sobre este seguirá pertenenciendo a cómo hoy lo defina la compañía. 
 
