@@ -61,44 +61,21 @@ A continuación, enlistaré los frameworks o librerías que fueron incluidas den
 [Typedoc]: https://img.shields.io/badge/TYPEDOC-333?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black
 [Typedoc-url]: https://typedoc.org/
 
-<div style="width:100%; display:inline-block">
-<div style="float:left;">
-
-1. Core del aplicativo
 
 * [![Axios][Axios]][Axios-url]
 * [![NodeJS][Node.js]][Node-url]
-
-2. Automización de pruebas 
-
+* [![Eslint][Eslint]][Eslint-url]
+* [![Prettier][Prettier]][Prettier-url]
 * [![Jest][Jest]][Jest-url]
 * [![Cucumber][Cucumber]][Cucumber-url]
 * [![Github][Github]][Github-url]
 * [![Husky][Husky]][Husky-url]
-
-3. Documentación del proyecto 
-
 * [![Docsify][Docsify]][Docsify-url]
 * [![Typedoc][Typedoc]][Typedoc-url]
-</div>
-
-<div style="float:right;">
-4. Buenas prácticas de desarrollo de software 
-
-* [![Eslint][Eslint]][Eslint-url]
-* [![Prettier][Prettier]][Prettier-url]
-
-5. Manejaador de dependencias 
-
 * [![NPM][NPM]][NPM-url]
 * [![PNPM][PNPM]][PNPM-url]
-
-6. Utilitarias
-
 * [![Rimraf][Rimraf]][Rimraf-url]
 
-</div>
-</div>
 
 <h2>Guías</h2>
 
