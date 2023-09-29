@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 ./src/test/iTestConfig.ts
+src/test/iTestConfig.ts
