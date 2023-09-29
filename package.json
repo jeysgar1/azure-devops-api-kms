@@ -1,6 +1,6 @@
 {
   "name": "azure-devops-api-kms",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Obtiene el conocimiento tácito generado durante la documentación de los elementos de trabajo en Azure DevOps dentro de una organización y lo transforma en conocimiento explícito",
   "main": "./build/cjs/index.js",
   "module": "./build/esm/index.js",
