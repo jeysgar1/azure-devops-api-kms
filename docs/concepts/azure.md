@@ -1,6 +1,6 @@
 <h1>Azure DevOps</h1>
 <div style="text-align:center; width:100%; align:center; background-color:#F7FCFF">
-<img src="../_media/azuredevops.svg" />
+<img src="https://jeysgar1.github.io/azure-devops-api-kms/_media/azuredevops.svg" />
 </div>
 <div style="float:left; width:45%;">
     <h2>¿Qué es?</h2>
@@ -30,7 +30,7 @@
     <h2>Work Item Query Language (WIQL)</h2>
     <p><b>Work Item Query Language (WIQL)</b> es un <b>lenguaje de consultas</b> sobre los <b>elementos de trabajo</b> creados dentro de un <b>proyecto</b> de una <b>organización</b> en <b>Azure DevOps</b>. </p>
     <p>La sintaxis de <b>WIQL</b> es similar a una sintaxis <b>SQL</b>. En ella se deben definir los <b>campos requeridos o necesarios en la respuesta</b>, la <b>fuente de donde se consultarán</b>, y los <b>filtros que apliquen según el objetivo de la consulta</b>. </p>
-    <pre>
+    ```sql
     SELECT
     [System.Id],
     [System.AssignedTo],
@@ -43,6 +43,6 @@
     AND [System.State] = 'Active'
     ORDER BY [System.ChangedDate] DESC
     ASOF '02-11-2020'
-</pre>
+```
 
 </div>

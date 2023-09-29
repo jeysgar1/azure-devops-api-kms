@@ -61,7 +61,7 @@ Equipo --> Persona : Compuesto de varias
 
 
 
-3. Las <b>necesidades de los usuarios<> o de los <b>Product Owner</b> representan directamente una <b>Iniciativa</b>. Las <b>Iniciativas</b> serán representadas por un identificador. Por lo pronto, cualquier análisis de viabilidad financiero y técnico sobre este seguirá pertenenciendo a cómo hoy lo defina la compañía. 
+3. Las <b>necesidades de los usuarios</b> o de los <b>Product Owner</b> representan directamente una <b>Iniciativa</b>. Las <b>Iniciativas</b> serán representadas por un identificador. Por lo pronto, cualquier análisis de viabilidad financiero y técnico sobre este seguirá pertenenciendo a cómo hoy lo defina la compañía. 
 
 4. Las <b>Iniciativas</b> serán especificadas por los <b>Proxy</b> durante un conjunto de sesiones de entendimiento con los <b>Product Owner</b>.
 

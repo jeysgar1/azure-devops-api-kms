@@ -10,7 +10,7 @@ Las <b>bases de conocimientos</b> son el pilar básico de la gestión de conocim
 <div style="display:inline-block">
 <h2>Bases de conocimiento</h2>
 <div style="float:left; width:45%; align:center;text-align: center;">
-    <img src="../_media/pensamientohumano.svg">
+    <img src="https://jeysgar1.github.io/azure-devops-api-kms/_media/pensamientohumano.svg">
     <h3>Tipos de conocimiento</h3>
     <h4>Conocimiento tácito</h4>
     <p>Conocimiento práctico desarrollado desde la <b>experiencia directa</b> y la acción, altamente pragmático y <b>específico de la situación</b>, entendido y aplicado subconscientemente, <b>difícil de articular</b>, usualmente compartido a través de la <b>conversación interactiva y la experiencia compartida</b>.</p>
