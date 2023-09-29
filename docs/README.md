@@ -1,5 +1,6 @@
 <h1>Azure DevOps API KMS</h1>
 
+<div>
 <h2>Acerca del proyecto</h2> 
 
 <p>
@@ -16,7 +17,9 @@ Asumiendo una igualdad entre la definición de <b>conocimiento tácito</b> y la 
 <li>Visita <a href="https://jeysgar1.github.io/#/./concepts/azure"></a>Azure DevOps</a> en donde te explicaré qué es <b>Azure DevOps</b>, qué son los <b>elementos de trabajo</b> y cómo acceder a ellos mediante una <b>API REST</b></li>
 <li>Visita <a href="https://jeysgar1.github.io/#/./app/problem"></a>¿Por qué gestionar el conocimiento TI junto a Azure DevOps?</a> en donde especificaré un poco más cuál es el problema o cuál es la motivación para implementar esta librería. </li>
 </p>
+</div>
 
+<div>
 <h2>Frameworks o librerías utilizadas</h2>
 
 <p>
@@ -75,8 +78,9 @@ A continuación, enlistaré los frameworks o librerías que fueron incluidas den
 * [![NPM][NPM]][NPM-url]
 * [![PNPM][PNPM]][PNPM-url]
 * [![Rimraf][Rimraf]][Rimraf-url]
+</div>
 
-
+<div>
 <h2>Guías</h2>
 
 <p>
@@ -118,6 +122,7 @@ git --version
 npm install -g pnpm
 ```
 
+
 <h3>Instalación</h3>
 
 1. Adicionar el paquete <b>azure-devops-api-kms</b> a través del gestor de dependencias <b>pnpm</b> en la ruta del directorio fisico del proyecto que está siendo creado a través del siguiente comando
@@ -136,10 +141,14 @@ Problamemente podrás visualizar que la instalación lanza un conjunto de instal
 
 ![Instalación de paquetes globales](./_media/installglobals.png)
 
-<h3>Casos de uso</h3>
+</div>
+
+
+<h2>Casos de uso</h2>
 
 1. <a href="">Consultar por un identificador en común</a>
 
+<div>
 <h2>🚧 Roadmap</h2>
 
 <h3>1. Búsqueda por un identificador en común</h3>
@@ -147,6 +156,7 @@ Problamemente podrás visualizar que la instalación lanza un conjunto de instal
 
 <h4>2. Búsqueda por palabras claves</h4>
 <p>Se debe implementar una consulta sobre todos los elementos de trabajo de todos los proyectos de la organización que compartan por lo menos un de un conjunto de palabras claves en la descripción del elemento del trabajo</p> 
+</div>
 
 <h2>🤝 Colaboraciones</h2>
 
