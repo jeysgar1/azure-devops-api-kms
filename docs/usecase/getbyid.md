@@ -1,5 +1,7 @@
 <h1>Consultar por un identificador común</h1>
 
+<p>Bajo el supuesto de que todos los elementos de trabajo de todos los proyectos creados dentro de una organización en <b>Azure DevOps</b> tienen una misma propiedad o atributo y gran parte de ellos tiene un valor a este, como también, que están relacionados los elementos de trabajo como <b>padre-hijo</b>, se implementó este caso de uso en el cuál a partir de un valor dado se consulta históricamente sobre un campo personalizado todos aquellos elementos de trabajo que esten asociados y se transforma a <b>conocimiento explítico</b> capturando aquellos datos que proveen <b>información</b> para la <b>organización</b></p>
+
 1. Importar la librería <code>azure-devops-api-kms</code> 
 
 ```javascript
