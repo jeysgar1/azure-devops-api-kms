@@ -166,18 +166,13 @@ npm i azure-devops-api-kms
 ```
 ![Instalación del paquete](installpackage.png)
 
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
+2. Instale las dependencias
+
+```cmd
+pnpm install
 ```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+
+Posiblemente al ejecutar este comando le instalará globalmente otras dependencias que son necesarias para el mismo como <b>typescript</b>, <b>jest</b>, <b>docsify-cli</b> y el gestor de dependencias <b>pnpm</b>.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
