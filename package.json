@@ -2,7 +2,7 @@
   "name": "azure-devops-api-kms",
   "version": "0.0.8",
   "description": "Obtiene el conocimiento tácito generado durante la documentación de los elementos de trabajo en Azure DevOps dentro de una organización y lo transforma en conocimiento explícito",
-  "main": "./build/index.js",
+  "main": "./build/cjs/index.js",
   "files": [
     "build/"
   ],
@@ -53,7 +53,7 @@
     "prettier": "prettier --config .prettierrc \"./src/**/*.ts\" --write",
     "test": "jest",
     "docs:run": "docsify serve ./docs",
-    "build": "rimraf ./build && rimraf ./docs/typedoc && pnpm run lint && pnpm run prettier && jest && typedoc --options typedoc.json && webpack",
+    "build": "rimraf ./build && rimraf ./docs/typedoc && pnpm run lint && pnpm run prettier && jest && typedoc --options typedoc.json && tsc",
     "release:patch": "pnpm run build && npm version patch --force && npm publish",
     "release:major": "pnpm run build && npm version major --force && npm publish",
     "release:minor": "pnpm run build && npm version minor --force && npm publish"
