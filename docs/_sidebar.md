@@ -3,7 +3,7 @@
     - [Problema a solucionar](./app/problem.md)
     - [Tácito a explícito](./app/azurekms.md)
 - **Casos de uso** 
-    - [Consultar por identificador común](./usecase/getbyid.md)
+    - [Consultar por id](./usecase/getbyid.md)
 - **Conceptos**
     - [KMS](./concepts/kms.md)
     - [Azure DevOps](./concepts/azure.md)
