@@ -173,59 +173,7 @@ Problamemente podrás visualizar que la instalación lanza un conjunto de instal
 
 <h2>🤝 Colaboraciones</h2>
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Pre-requisitos
-
-1. Descargar e instalar <a href="https://nodejs.org/en/download">NodeJS & NPM</a> 
-2. Descargar e instalar <a href="https://git-scm.com/downloads">Git</a>
-3. Descargar e instalar <a href="https://code.visualstudio.com/Download">Visual Studio Code</a> (o el editor de texto o entorno de desarrollo integrador que más les guste) 
-4. Clonar el proyecto alojado en Github.
-
-#### Validación 
-
-1. Ejecutar en un consola de comandos:
-
-```cmd
-npm -v
-```
-![Validación de instalación de NPM](./_media/installnpm.png)
-
-2. Ejecutar en una consola de comandos :
-
-```cmd
-node -v
-```
-
-![Validación de instalación de NodeJS](./media/installnode.png)
-
-3. Ejecutar en una consola de comandos :
-
-```cmd
-git --version
-```
-![Validación de instalación de Git](image.png)
-
-4. Clonar el proyecto alojado en Github mediante el comando:
-
-```cmd
-git clone https://github.com/jeysgar1/azure-devops-api-kms.git
-```
-
-Después de ser clonado, validar que fueron descargados los archivos en su directorio local para dar por finalizado los pre-requisitos.
-
-
-<!-- LICENSE -->
-<h2>📝 Licencia</h2> 
-Describe your License for your project. 
-
-Distributed under the MIT License. See `LICENSE` for more information.
+Pendiente por definir el proceso. 
 
 <!-- CONTACT -->
 <h2>📝 Contacto</h2>
@@ -233,8 +181,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Jeyson Andrés García Rodríguez - [@jeysgar1](https://www.linkedin.com/in/jeissongarcia) - jeogarciarodriguez@hotmail.com
 
 Github: [https://github.com/jeysgar1/azure-devops-api-kms](https://github.com/jeysgar1/azure-devops-api-kms)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 <h2>Agradecimientos</h2>
