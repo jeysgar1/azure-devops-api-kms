@@ -23,10 +23,6 @@ class ConfigInstance {
         return this.appConfig?.organizationName ?? 'Not defined';
     }
 
-    public getProject(): string {
-        return this.appConfig?.projectName ?? 'Not defined';
-    }
-
     public getStates(): {
         ToDo: string[];
         Doing: string[];
@@ -87,10 +83,6 @@ class ConfigInstance {
         if (!this.appConfig.states.Cancelled)
             throw Error('The Cancelled states are required');
         return true;
-    }
-
-    public setProject(projectName: string): void {
-        if (this.appConfig) this.appConfig.projectName = projectName;
     }
 }
 

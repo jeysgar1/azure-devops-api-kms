@@ -6,5 +6,4 @@ export declare class AzureDevOpsIntegrations {
     private constructor();
     getInitiative(idInitiative: string): Promise<Initiative | undefined>;
     init(appConfig: iAppConfig): void;
-    setProject(projectName: string): void;
 }

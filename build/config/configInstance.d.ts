@@ -5,7 +5,6 @@ declare class ConfigInstance {
     private constructor();
     static getInstance(appConfig?: iAppConfig | undefined): ConfigInstance | undefined;
     getOrganization(): string;
-    getProject(): string;
     getStates(): {
         ToDo: string[];
         Doing: string[];
@@ -20,7 +19,6 @@ declare class ConfigInstance {
         Task: string;
     };
     onValidate(): boolean;
-    setProject(projectName: string): void;
 }
 export declare const configInstance: (appConfig?: iAppConfig | undefined) => ConfigInstance | undefined;
 export {};

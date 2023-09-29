@@ -4,7 +4,7 @@
   "_version": "18.2.0",
   "compilerOptions": {
     "target": "ES2015",
-    "module": "ES2020",               /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', or 'ESNext'. */
+    "module": "CommonJS",               /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', or 'ESNext'. */
     "allowJs": true,
     "outDir": "./build",
     "rootDir": "./src",
@@ -16,6 +16,7 @@
     "allowSyntheticDefaultImports": true,
     "checkJs": true,
     "declaration": true,
+    "declarationMap": false,
     "moduleResolution": "node",
     "types": [ "node", "jest" ],
     "skipLibCheck": true
@@ -24,9 +25,6 @@
   "exclude": [
     "./node_modules",
     "./docs",
-    "./lib",
-    "test/**/*.config.spec.ts",
-    "test/**/*.spec.ts",
-    "test/**/*.test.ts"
+    "./build"
   ]
 }

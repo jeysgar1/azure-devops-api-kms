@@ -1,16 +1,5 @@
 export interface iAppConfig {
-    fields: {
-        idInitiative: string;
-        team: {
-            architect: string;
-            productOnwer: string;
-            proxy: string;
-            scrumMaster: string;
-            techLeader: string;
-        };
-    };
     organizationName: string;
-    projectName: string;
     states: {
         ToDo: string[];
         Doing: string[];

@@ -38,8 +38,4 @@ export class AzureDevOpsIntegrations {
     public init(appConfig: iAppConfig): void {
         configInstance(appConfig);
     }
-
-    public setProject(projectName: string): void {
-        configInstance()?.setProject(projectName);
-    }
 }

@@ -135,29 +135,41 @@ git --version
 ```
 ![Validación de instalación de Git](./_media/installgit.png)
 
-<h3>Instalación</h3>
-
-1. A criterio de la fábrica de software o del desarrollador, desde el entorno de desarrollo integrado o desde el editor de texto, instalar el paquete desde la consola de comandos en la ruta del diretorio físico del aplicativo a construir. 
+4. Ejecutar en una consola de comandos:
 
 ```cmd
-npm i azure-devops-api-kms
+npm install -g pnpm
 ```
-![Instalación del paquete](./media/installpackage.png)
 
-2. Instale las dependencias
+<h3>Instalación</h3>
+
+1. Adicionar el paquete <b>azure-devops-api-kms</b> a través del gestor de dependencias <b>pnpm</b> en la ruta del directorio fisico del proyecto que está siendo creado a través del siguiente comando
+
+```cmd
+pnpm add azure-devops-api-kms
+```
+
+Ejecutar el siguiente comando para garantizar la instalación del mismo:
 
 ```cmd
 pnpm install
 ```
 
-Posiblemente al ejecutar este comando le instalará globalmente otras dependencias que son necesarias para el mismo como <b>typescript</b>, <b>jest</b>, <b>docsify-cli</b> y el gestor de dependencias <b>pnpm</b>.
+Problamemente podrás visualizar que la instalación lanza un conjunto de instalaciones secundarias globales que son utiles para el proyecto como : <b>typescript</b>, <b>docsify-cli</b>, <b>typedoc</b>, <b>jest</b> y <b>webpack</b>. 
 
-<h3>Uso</h3>
+![Instalación de paquetes globales](./_media/installglobals.png)
 
+<h3>Casos de uso</h3>
+
+1. <a href="">Consultar por un identificador en común</a>
 
 <h2>🚧 Roadmap</h2>
 
-See the [open issues](https://github.com/roshanlam/ReadMeTemplate/issues) for a list of proposed features (and known issues).
+<h3>1. Búsqueda por un identificador en común</h3>
+<p>Se debe implementar una consulta sobre todos los elementos de trabajo de todos los proyectos de la organización que compartan un mismo campo personalizado con el mismo valor</p>
+
+<h4>2. Búsqueda por palabras claves</h4>
+<p>Se debe implementar una consulta sobre todos los elementos de trabajo de todos los proyectos de la organización que compartan por lo menos un de un conjunto de palabras claves en la descripción del elemento del trabajo</p> 
 
 <h2>🤝 Colaboraciones</h2>
 

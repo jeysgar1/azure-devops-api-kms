@@ -3,7 +3,7 @@
     "includeVersion": true,
     "name": "Azure DevOps Integration (Coding)",
     "cleanOutputDir": true,
-    "exclude": ["./node_modules", "./lib", "./docs"],
+    "exclude": ["./node_modules", "./build", "./docs"],
     "entryPoints": ["./src"],
     "entryPointStrategy": "expand",
     "out": "./docs/typedoc",

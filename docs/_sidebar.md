@@ -1,10 +1,9 @@
 - **Azure DevOps API KMS**
-    - [Descripción](./app/description.md)
+    - [Introducción](./README.md)
     - [Problema a solucionar](./app/problem.md)
     - [Azure DevOps KMS](./app/azurekms.md)
 - **Casos de uso** 
-    - [Configurar aplicación](./usecase/configapp.md)
-    - [Consultar iniciativa](./usecase/configapp.md)
+    - [Consultar por identificador común](./usecase/getbyid.md)
 - **Conceptos**
     - [KMS](./concepts/kms.md)
     - [Azure DevOps](./concepts/azure.md)

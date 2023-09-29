@@ -1,25 +1,28 @@
 import { defineFeature, loadFeature } from 'jest-cucumber';
 import path from 'path';
-import azureDevOpsIntegrationInstance from '../index';
+import AzureDevOpsIntegrations from '../app';
 import { Initiative } from '../models';
-import appConfigTest from './app.config.spec';
+import appConfigTest from './appConfig';
 
 const feature = loadFeature(path.join(__dirname, './app.feature'));
 
 defineFeature(feature, (test) => {
     let initiative: Initiative | undefined = undefined;
+    let azureDevOpsIntegrationInstance: AzureDevOpsIntegrations | undefined =
+        undefined;
 
     beforeEach(() => {
         initiative = undefined;
-        azureDevOpsIntegrationInstance.init(appConfigTest);
+        azureDevOpsIntegrationInstance = new AzureDevOpsIntegrations(
+            appConfigTest,
+        );
     });
 
     test('Obtener una iniciativa', ({ given, when, then }) => {
         given('La conexion con Azure DevOps', () => {});
 
         when('Solicito una iniciativa', async () => {
-            initiative =
-                await azureDevOpsIntegrationInstance.getInitiative('2633');
+            initiative = await azureDevOpsIntegrationInstance?.getById('2633');
         });
 
         then('Obtengo la referencia', () => {
