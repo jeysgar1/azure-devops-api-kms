@@ -62,7 +62,7 @@ A continuación, enlistaré los frameworks o librerías que fueron incluidas den
 [Typedoc-url]: https://typedoc.org/
 
 <div style="width:100%; display:inline-block">
-<div style="float:left;width:45%">
+<div style="float:left;">
 
 1. Core del aplicativo
 
@@ -82,7 +82,7 @@ A continuación, enlistaré los frameworks o librerías que fueron incluidas den
 * [![Typedoc][Typedoc]][Typedoc-url]
 </div>
 
-<div style="float:right;width:45%">
+<div style="float:right;">
 4. Buenas prácticas de desarrollo de software 
 
 * [![Eslint][Eslint]][Eslint-url]
