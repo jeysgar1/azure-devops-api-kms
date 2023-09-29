@@ -1,38 +1,26 @@
+<h1>Azure DevOps API KMS</h1>
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
+<h2>Acerca del proyecto</h2> 
 
-  <h3 align="center">Azure DevOps API KMS</h3>
+<p>
+Esta <b>librería</b> nace a partir de una situación personal en la cuál una <b>organización</b> le da la potestad a cada proyecto en <b>gestionar</b> las <b>épicas y características</b> en <b>Azure DevOps</b>, generando <b>duplicidad de las mismas</b> en <b>otros proyectos</b> y complicando la <b>búsqueda</b>, el <b>uso</b> y la <b>relación</b> entre las <b>creadas previamente</b>.</p>
 
-  <p align="center">
-    Consulta y obtiene el <p>conocimiento tácito</p> generado y documentado en cada <p>proyecto</p> creado en <p>Azure DevOps</p> dentro de la <p>organización</p> y transformalo en <p>conocimiento explícito</p>. 
-    <br />
-    <a href="https://jeysgar1.github.io/azure-devops-api-kms/#/"><strong>Visita nuestro sitio web »</strong></a>
-    <br />
-    ·
-    <a href="https://github.com/jeysgar1/azure-devops-api-kms/blob/master/.github/ISSUE_TEMPLATE/bug_report.md">Reporte un error</a>
-    ·
-    <a href="https://github.com/jeysgar1/azure-devops-api-kms/blob/master/.github/ISSUE_TEMPLATE/feature_request.md">Solicite una nueva funcionalidad</a>
-    ·
-  </p>
+<p>
+Asumiendo una igualdad entre la definición de <b>conocimiento tácito</b> y la <b>duplicidad de la información, la no relación de las mismas y la dificultad para consultar información histórica</b> sobre las <b>épicas</b>, las <b>características</b>, las <b>historias de usuario</b> y las <b>tareas</b>, se propone una <b>restructuración de la definición existente</b> sin generar cambios en el proceso ya establecido en <b>Azure Devops</b> para transformar ese <b>conocimiento tácito</b> en <b>conocimiento explícito</b>. 
 </p>
 
-<!-- ABOUT THE PROJECT -->
-## Acerca del proyecto
-
-Esta <b>librería</b> nace a partir de una situación personal en la cuál una <b>organización</b> le da la potestad a cada proyecto en <b>gestionar</b> las <b>épicas y características</b>, generando <b>duplicidad de las mismas</b> en <b>otros proyectos</b> y complicando la <b>búsqueda</b>, <b>uso</b> y <b>relación</b> entre las <b>creadas previamente</b>.
-
-Asumiendo una igualdad entre la definición de <b>conocimiento tácito</b> y la <b>duplicidad de la información, la no relación de las mismas y la dificultad para consultar información histórica</b> sobre las <b>épicas</b>, las <b>características</b>, las <b>historias de usuario</b> y las <b>tareas</b>, se propone una <b>restructuración de la definición existente</b> sin generar cambios en el proceso ya establecido en <b>Azure Devops</b>. 
-
+<p>
 ¿Necesitas un poco más de información? 
-- Visita [Knowledge Management System](./concepts/kms.md) en donde te explicaré qué es conocimiento tácito y conocimiento explícito
-- Visita [Azure DevOps](./concepts/azure.md) en donde te explicaré qué es <b>Azure DevOps</b>, qué son los <b>elementos de trabajo</b> y cómo acceder a ellos mediante una <b>API REST</b>. 
-- Visita [Pérdida de conocimiento por modo de trabajo en Azure Devops](./app/problem.md) en donde especificaré un poco más cuál es el problema o cuál es la motivación para implementar esta librería. 
+<ul>
+<li>Visita <a href="https://jeysgar1.github.io//#/./concepts/kms"></a>Knowledge Management System</a> en donde te explicaré qué es conocimiento tácito y conocimiento explícito</li>
+<li>Visita <a href="https://jeysgar1.github.io/#/./concepts/azure"></a>Azure DevOps</a> en donde te explicaré qué es <b>Azure DevOps</b>, qué son los <b>elementos de trabajo</b> y cómo acceder a ellos mediante una <b>API REST</b></li>
+<li>Visita <a href="https://jeysgar1.github.io/#/./app/problem"></a>¿Por qué gestionar el conocimiento TI junto a Azure DevOps?</a> en donde especificaré un poco más cuál es el problema o cuál es la motivación para implementar esta librería. </li>
+</p>
 
-### Frameworks o librerías utilizadas
+<h2>Frameworks o librerías utilizadas</h2>
 
-A continuación, enlistaré los frameworks o librerías que fueron incluidas dentro de la solución categorizadas en : la automatización pruebas, la documentación del proyecto, manejador de dependencias, las buenas practicas de codificación, el core del aplicativo y las utilitarias.
+<p>
+A continuación, enlistaré los frameworks o librerías que fueron incluidas dentro de la solución categorizadas en :  automatización pruebas,  documentación del proyecto, manejador de dependencias, buenas practicas de codificación,  core del aplicativo y utilitarias.</p>
 
 [Axios]: https://img.shields.io/badge/AXIOS-blue?style=for-the-badge&logo=axios&logoColor=white&labelColor=333
 [Axios-url]: https://axios-http.com/docs/intro
@@ -112,17 +100,18 @@ A continuación, enlistaré los frameworks o librerías que fueron incluidas den
 </div>
 </div>
 
-<!-- GETTING STARTED -->
-## Guías
+<h2>Guías</h2>
 
-A continuación, se brindarán los instructivos que dede seguir un desarrollador para hacer uso del aplicativo en una aplicación externa.  
+<p>
+A continuación, se brindarán los instructivos que dede seguir un desarrollador para hacer uso del aplicativo en una aplicación externa. 
+</p> 
 
-### Pre-requisitos
+<h3>Pre-requisitos</h3>
 
 1. Descargar e instalar <a href="https://nodejs.org/en/download">NodeJS & NPM</a> 
 2. Descargar e instalar <a href="https://git-scm.com/downloads">Git</a>
 
-#### Validación 
+<h4>Validaciones</h4>
 
 1. Ejecutar en un consola de comandos:
 
@@ -144,16 +133,16 @@ node -v
 ```cmd
 git --version
 ```
-![Validación de instalación de Git](image.png)
+![Validación de instalación de Git](./_media/installgit.png)
 
-### Instalación
+<h3>Instalación</h3>
 
 1. A criterio de la fábrica de software o del desarrollador, desde el entorno de desarrollo integrado o desde el editor de texto, instalar el paquete desde la consola de comandos en la ruta del diretorio físico del aplicativo a construir. 
 
 ```cmd
 npm i azure-devops-api-kms
 ```
-![Instalación del paquete](installpackage.png)
+![Instalación del paquete](./media/installpackage.png)
 
 2. Instale las dependencias
 
@@ -163,24 +152,14 @@ pnpm install
 
 Posiblemente al ejecutar este comando le instalará globalmente otras dependencias que son necesarias para el mismo como <b>typescript</b>, <b>jest</b>, <b>docsify-cli</b> y el gestor de dependencias <b>pnpm</b>.
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+<h3>Uso</h3>
 
 
-
-<!-- ROADMAP -->
-## 🚧 Roadmap
+<h2>🚧 Roadmap</h2>
 
 See the [open issues](https://github.com/roshanlam/ReadMeTemplate/issues) for a list of proposed features (and known issues).
 
-
-
-<!-- CONTRIBUTING -->
-## 🤝 Colaboraciones
+<h2>🤝 Colaboraciones</h2>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**.
 
@@ -229,26 +208,23 @@ git clone https://github.com/jeysgar1/azure-devops-api-kms.git
 
 Después de ser clonado, validar que fueron descargados los archivos en su directorio local para dar por finalizado los pre-requisitos.
 
+
 <!-- LICENSE -->
-## 📝 License
+<h2>📝 Licencia</h2> 
 Describe your License for your project. 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
-## 📫 Contact
+<h2>📝 Contacto</h2>
 
-Jeyson Andrés García Rodríguez - [@jeysgar1](https://www.linkedin.com/in/jeissongarcia) - jeogarod@gmail.com
+Jeyson Andrés García Rodríguez - [@jeysgar1](https://www.linkedin.com/in/jeissongarcia) - jeogarciarodriguez@hotmail.com
 
 Github: [https://github.com/jeysgar1/azure-devops-api-kms](https://github.com/jeysgar1/azure-devops-api-kms)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* blah blah blah....
+<h2>Agradecimientos</h2>
+
+A [Harold Andrés Marroquín Veloza](https://www.linkedin.com/in/harold-marroquin-b5964a250/), por acompañarme en cada situación dificil y en siempre darme los ánimos que necesito para continuar y pensar que mis ideas no son en vano. 
