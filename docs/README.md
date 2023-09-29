@@ -107,7 +107,7 @@ npm -v
 node -v
 ```
 
-![Validación de instalación de NodeJS](./media/installnode.png)
+![Validación de instalación de NodeJS](./_media/installnode.png)
 
 3. Ejecutar en una consola de comandos :
 
